@@ -55,7 +55,7 @@ def main():
     
 
     # Load the Stations and load the network
-    st.write(Path(os.getcwd()).parent)
+    # st.write(Path(os.getcwd()).parent)
     G = create_network()
         
     stations_df, tt_dist_matrix = load_data()
