@@ -1,0 +1,862 @@
+station_pair,route_short_name,Direction,duration,length,duration_seconds,av_speed_kmh
+Tallawong Station - Rouse Hill Station,M1,Inbound,0 days 00:02:00,1916.15,120,57.4845
+Rouse Hill Station - Kellyville Station,M1,Inbound,0 days 00:03:00,2618.39,180,52.3678
+Kellyville Station - Bella Vista Station,M1,Inbound,0 days 00:02:00,2084.52,120,62.5356
+Bella Vista Station - Norwest Station,M1,Inbound,0 days 00:03:00,2261.82,180,45.2364
+Norwest Station - Hills Showground Station,M1,Inbound,0 days 00:03:00,2361.01,180,47.2202
+Hills Showground Station - Castle Hill Station,M1,Inbound,0 days 00:02:00,2052.23,120,61.5669
+Castle Hill Station - Cherrybrook Station,M1,Inbound,0 days 00:03:00,2490.87,180,49.8174
+Cherrybrook Station - Epping Station,M1,Inbound,0 days 00:06:00,6287.17,360,62.8717
+Epping Station - Macquarie University Station,M1,Inbound,0 days 00:03:00,4006.84,180,80.1368
+Macquarie University Station - Macquarie Park Station,M1,Inbound,0 days 00:02:00,1238.5,120,37.155
+Macquarie Park Station - North Ryde Station,M1,Inbound,0 days 00:02:00,1413.5,120,42.405
+North Ryde Station - Chatswood Station,M1,Inbound,0 days 00:06:00,6524.91,360,65.2491
+Chatswood Station - Crows Nest Station,M1,Inbound,0 days 00:04:00,3854.47,240,57.81705
+Crows Nest Station - Victoria Cross Station,M1,Inbound,0 days 00:03:00,1545.97,180,30.9194
+Victoria Cross Station - Barangaroo Station,M1,Inbound,0 days 00:03:00,2713.12,180,54.2624
+Barangaroo Station - Martin Place Station,M1,Inbound,0 days 00:02:00,1414.33,120,42.4299
+Martin Place Station - Gadigal Station,M1,Inbound,0 days 00:02:00,768.2,120,23.046
+Gadigal Station - Central Station,M1,Inbound,0 days 00:02:00,1207.28,120,36.2184
+Central Station - Waterloo Station,M1,Outbound,0 days 00:02:00,1662.62,120,49.8786
+Waterloo Station - Sydenham Station,M1,Outbound,0 days 00:04:00,4107.39,240,61.61085
+Sydenham Station - Waterloo Station,M1,Inbound,0 days 00:03:00,4089.29,180,81.7858
+Waterloo Station - Central Station,M1,Inbound,0 days 00:03:00,1675.02,180,33.5004
+Central Station - Gadigal Station,M1,Outbound,0 days 00:02:00,1219.99,120,36.5997
+Gadigal Station - Martin Place Station,M1,Outbound,0 days 00:02:00,783.67,120,23.5101
+Martin Place Station - Barangaroo Station,M1,Outbound,0 days 00:02:00,1348.05,120,40.4415
+Barangaroo Station - Victoria Cross Station,M1,Outbound,0 days 00:04:00,2713.62,240,40.7043
+Victoria Cross Station - Crows Nest Station,M1,Outbound,0 days 00:02:00,1533.09,120,45.9927
+Crows Nest Station - Chatswood Station,M1,Outbound,0 days 00:04:00,3866.94,240,58.0041
+Chatswood Station - North Ryde Station,M1,Outbound,0 days 00:05:00,6505.71,300,78.06852
+North Ryde Station - Macquarie Park Station,M1,Outbound,0 days 00:02:00,1421.3,120,42.639
+Macquarie Park Station - Macquarie University Station,M1,Outbound,0 days 00:02:00,1239.64,120,37.1892
+Macquarie University Station - Epping Station,M1,Outbound,0 days 00:04:00,4016.94,240,60.2541
+Epping Station - Cherrybrook Station,M1,Outbound,0 days 00:06:00,6267.25,360,62.6725
+Cherrybrook Station - Castle Hill Station,M1,Outbound,0 days 00:03:00,2481.49,180,49.6298
+Castle Hill Station - Hills Showground Station,M1,Outbound,0 days 00:02:00,2050.05,120,61.5015
+Hills Showground Station - Norwest Station,M1,Outbound,0 days 00:03:00,2356.34,180,47.1268
+Norwest Station - Bella Vista Station,M1,Outbound,0 days 00:02:00,2287,120,68.61
+Bella Vista Station - Kellyville Station,M1,Outbound,0 days 00:03:00,2084.34,180,41.6868
+Kellyville Station - Rouse Hill Station,M1,Outbound,0 days 00:03:00,2616.55,180,52.331
+Rouse Hill Station - Tallawong Station,M1,Outbound,0 days 00:02:00,1907.85,120,57.2355
+Redfern Station - Central Station,T3,Inbound,0 days 00:03:00,1208.93,180,24.1786
+Central Station - Museum Station,T2,Outbound,0 days 00:03:00,937.67,180,18.7534
+Museum Station - St James Station,T2,Outbound,0 days 00:02:00,629.05,120,18.8715
+St James Station - Circular Quay Station,T2,Inbound,0 days 00:03:00,1436.03,180,28.7206
+Circular Quay Station - Wynyard Station,T2,Inbound,0 days 00:03:00,882.82,180,17.6564
+Wynyard Station - Town Hall Station,T2,Inbound,0 days 00:03:00,876.49,180,17.5298
+Town Hall Station - Central Station,T2,Inbound,0 days 00:04:00,1263.27,240,18.94905
+Central Station - Redfern Station,T2,Outbound,0 days 00:02:00,1204.08,120,36.1224
+Redfern Station - Newtown Station,T2,Outbound,0 days 00:04:00,1854.92,240,27.8238
+Newtown Station - Ashfield Station,T2,Outbound,0 days 00:06:00,5262.61,360,52.6261
+Ashfield Station - Burwood Station,T2,Outbound,0 days 00:04:00,2312.93,240,34.69395
+Burwood Station - Strathfield Station,T2,Outbound,0 days 00:03:00,1182.94,180,23.6588
+Strathfield Station - Flemington Station,T2,Outbound,0 days 00:04:00,2440.61,240,36.60915
+Flemington Station - Lidcombe Station,T2,Outbound,0 days 00:04:00,2342.32,240,35.1348
+Lidcombe Station - Auburn Station,T2,Outbound,0 days 00:03:00,1980.18,180,39.6036
+Auburn Station - Clyde Station,T2,Outbound,0 days 00:03:00,2082.72,180,41.6544
+Clyde Station - Granville Station,T2,Outbound,0 days 00:01:00,569.57,60,34.1742
+Granville Station - Merrylands Station,T2,Outbound,0 days 00:03:00,2214.99,180,44.2998
+Merrylands Station - Guildford Station,T2,Outbound,0 days 00:03:00,2207.99,180,44.1598
+Guildford Station - Yennora Station,T2,Outbound,0 days 00:03:00,1734.73,180,34.6946
+Yennora Station - Fairfield Station,T2,Outbound,0 days 00:03:00,1556.64,180,31.1328
+Fairfield Station - Canley Vale Station,T2,Outbound,0 days 00:02:00,2055.99,120,61.6797
+Canley Vale Station - Cabramatta Station,T2,Outbound,0 days 00:02:00,964.32,120,28.9296
+Cabramatta Station - Warwick Farm Station,T2,Outbound,0 days 00:03:00,2060.63,180,41.2126
+Warwick Farm Station - Liverpool Station,T2,Outbound,0 days 00:03:00,1542.56,180,30.8512
+Liverpool Station - Casula Station,T2,Outbound,0 days 00:04:00,3185.29,240,47.77935
+Casula Station - Glenfield Station,T2,Outbound,0 days 00:05:00,3142.5,300,37.71
+Glenfield Station - Edmondson Park Station,T2,Outbound,0 days 00:04:00,3433.78,240,51.5067
+Edmondson Park Station - Leppington Station,T2,Outbound,0 days 00:06:00,5641.18,360,56.4118
+Leppington Station - Edmondson Park Station,T2,Inbound,0 days 00:05:00,5642.36,300,67.70832
+Edmondson Park Station - Glenfield Station,T2,Inbound,0 days 00:05:00,3421.19,300,41.05428
+Glenfield Station - Casula Station,T2,Inbound,0 days 00:04:00,3126.68,240,46.9002
+Casula Station - Liverpool Station,T2,Inbound,0 days 00:04:00,3197.72,240,47.9658
+Liverpool Station - Warwick Farm Station,T2,Inbound,0 days 00:02:00,1541.76,120,46.2528
+Warwick Farm Station - Cabramatta Station,T2,Inbound,0 days 00:03:00,2060.63,180,41.2126
+Cabramatta Station - Canley Vale Station,T2,Inbound,0 days 00:04:00,966.54,240,14.4981
+Canley Vale Station - Fairfield Station,T2,Inbound,0 days 00:03:00,2056.71,180,41.1342
+Fairfield Station - Yennora Station,T2,Inbound,0 days 00:03:00,1558.41,180,31.1682
+Yennora Station - Guildford Station,T2,Inbound,0 days 00:03:00,1736.02,180,34.7204
+Guildford Station - Merrylands Station,T2,Inbound,0 days 00:03:00,2205.6,180,44.112
+Merrylands Station - Granville Station,T2,Inbound,0 days 00:04:00,2216.11,240,33.24165
+Granville Station - Auburn Station,T2,Inbound,0 days 00:03:00,2651.32,180,53.0264
+Auburn Station - Lidcombe Station,T2,Inbound,0 days 00:03:00,1979.07,180,39.5814
+Lidcombe Station - Strathfield Station,T2,Inbound,0 days 00:07:00,4785.26,420,41.01651429
+Strathfield Station - Burwood Station,T2,Inbound,0 days 00:03:00,1177.86,180,23.5572
+Burwood Station - Croydon Station,T2,Inbound,0 days 00:02:00,1251.26,120,37.5378
+Croydon Station - Ashfield Station,T2,Inbound,0 days 00:02:00,1060.95,120,31.8285
+Ashfield Station - Newtown Station,T2,Inbound,0 days 00:08:00,5260.12,480,39.4509
+Newtown Station - Redfern Station,T2,Inbound,0 days 00:04:00,1848.77,240,27.73155
+Central Station - Town Hall Station,T3,Outbound,0 days 00:03:00,1258.73,180,25.1746
+Town Hall Station - Wynyard Station,T3,Outbound,0 days 00:03:00,868.91,180,17.3782
+Wynyard Station - Circular Quay Station,T3,Outbound,0 days 00:03:00,894.43,180,17.8886
+Circular Quay Station - St James Station,T3,Outbound,0 days 00:03:00,1456.08,180,29.1216
+St James Station - Museum Station,T3,Outbound,0 days 00:02:00,639.08,120,19.1724
+Museum Station - Central Station,T3,Inbound,0 days 00:04:00,939.3,240,14.0895
+Redfern Station - Erskineville Station,T3,Outbound,0 days 00:02:00,1618.46,120,48.5538
+Erskineville Station - St Peters Station,T3,Outbound,0 days 00:02:00,919.74,120,27.5922
+St Peters Station - Sydenham Station,T3,Outbound,0 days 00:03:00,1512.25,180,30.245
+Sydenham Station - Marrickville Station,T3,Outbound,0 days 00:03:00,1318.36,180,26.3672
+Marrickville Station - Dulwich Hill Station,T3,Outbound,0 days 00:03:00,1241.59,180,24.8318
+Dulwich Hill Station - Hurlstone Park Station,T3,Outbound,0 days 00:02:00,872.39,120,26.1717
+Hurlstone Park Station - Canterbury Station,T3,Outbound,0 days 00:02:00,1399.99,120,41.9997
+Canterbury Station - Campsie Station,T3,Outbound,0 days 00:03:00,1516.43,180,30.3286
+Campsie Station - Belmore Station,T3,Outbound,0 days 00:02:00,1612.37,120,48.3711
+Belmore Station - Lakemba Station,T3,Outbound,0 days 00:03:00,1204.99,180,24.0998
+Lakemba Station - Wiley Park Station,T3,Outbound,0 days 00:02:00,841.55,120,25.2465
+Wiley Park Station - Punchbowl Station,T3,Outbound,0 days 00:02:00,1143.01,120,34.2903
+Punchbowl Station - Bankstown Station,T3,Outbound,0 days 00:04:00,2278.31,240,34.17465
+Bankstown Station - Yagoona Station,T3,Outbound,0 days 00:03:00,1741.99,180,34.8398
+Yagoona Station - Birrong Station,T3,Outbound,0 days 00:02:00,1682.77,120,50.4831
+Birrong Station - Regents Park Station,T3,Outbound,0 days 00:06:00,1403.6,360,14.036
+Regents Park Station - Berala Station,T3,Outbound,0 days 00:02:00,1523.39,120,45.7017
+Berala Station - Lidcombe Station,T3,Outbound,0 days 00:04:00,1693.5,240,25.4025
+Lidcombe Station - Berala Station,T3,Outbound,0 days 00:03:00,1694.25,180,33.885
+Berala Station - Regents Park Station,T3,Outbound,0 days 00:02:00,1524.45,120,45.7335
+Regents Park Station - Birrong Station,T3,Inbound,0 days 00:04:00,1402.97,240,21.04455
+Birrong Station - Yagoona Station,T3,Inbound,0 days 00:02:00,1680.66,120,50.4198
+Yagoona Station - Bankstown Station,T3,Inbound,0 days 00:07:00,1736.57,420,14.88488571
+Bankstown Station - Punchbowl Station,T3,Inbound,0 days 00:03:00,2276.12,180,45.5224
+Punchbowl Station - Wiley Park Station,T3,Inbound,0 days 00:02:00,1140.98,120,34.2294
+Wiley Park Station - Lakemba Station,T3,Inbound,0 days 00:02:00,841.39,120,25.2417
+Lakemba Station - Belmore Station,T3,Inbound,0 days 00:02:00,1204.86,120,36.1458
+Belmore Station - Campsie Station,T3,Inbound,0 days 00:03:00,1616.31,180,32.3262
+Campsie Station - Canterbury Station,T3,Inbound,0 days 00:02:00,1545.69,120,46.3707
+Canterbury Station - Hurlstone Park Station,T3,Inbound,0 days 00:03:00,1363.58,180,27.2716
+Hurlstone Park Station - Dulwich Hill Station,T3,Inbound,0 days 00:02:00,876.55,120,26.2965
+Dulwich Hill Station - Marrickville Station,T3,Inbound,0 days 00:02:00,1240.42,120,37.2126
+Marrickville Station - Sydenham Station,T3,Inbound,0 days 00:03:00,1313.68,180,26.2736
+Sydenham Station - St Peters Station,T3,Inbound,0 days 00:03:00,1513.42,180,30.2684
+St Peters Station - Erskineville Station,T3,Inbound,0 days 00:02:00,913.31,120,27.3993
+Erskineville Station - Redfern Station,T3,Inbound,0 days 00:02:00,1620.67,120,48.6201
+Central Station - Green Square Station,T8,Outbound,0 days 00:03:00,2631.26,180,52.6252
+Green Square Station - Mascot Station,T8,Outbound,0 days 00:03:00,2480.04,180,49.6008
+Mascot Station - Domestic Station,T8,Outbound,0 days 00:03:00,1549.54,180,30.9908
+Domestic Station - International Station,T8,Outbound,0 days 00:02:00,1471.68,120,44.1504
+International Station - Wolli Creek Station,T8,Outbound,0 days 00:03:00,1296.95,180,25.939
+Wolli Creek Station - Revesby Station,T8,Outbound,0 days 00:11:00,13649.57,660,74.4522
+Revesby Station - Panania Station,T8,Outbound,0 days 00:03:00,1577.75,180,31.555
+Panania Station - East Hills Station,T8,Outbound,0 days 00:02:00,1518.33,120,45.5499
+East Hills Station - Holsworthy Station,T8,Outbound,0 days 00:03:00,2726.42,180,54.5284
+Holsworthy Station - Glenfield Station,T8,Outbound,0 days 00:08:00,6254.75,480,46.910625
+Glenfield Station - Macquarie Fields Station,T8,Outbound,0 days 00:02:00,1868.69,120,56.0607
+Macquarie Fields Station - Ingleburn Station,T8,Outbound,0 days 00:03:00,1916.05,180,38.321
+Ingleburn Station - Minto Station,T8,Outbound,0 days 00:04:00,3999.03,240,59.98545
+Minto Station - Leumeah Station,T8,Outbound,0 days 00:04:00,2867.84,240,43.0176
+Leumeah Station - Campbelltown Station,T8,Outbound,0 days 00:05:00,2066.13,300,24.79356
+Campbelltown Station - Macarthur Station,T8,Outbound,0 days 00:03:00,1901.03,180,38.0206
+Macarthur Station - Campbelltown Station,T8,Inbound,0 days 00:04:00,1902.36,240,28.5354
+Campbelltown Station - Leumeah Station,T8,Inbound,0 days 00:03:00,2060.57,180,41.2114
+Leumeah Station - Minto Station,T8,Inbound,0 days 00:03:00,2866.99,180,57.3398
+Minto Station - Ingleburn Station,T8,Inbound,0 days 00:04:00,4000.81,240,60.01215
+Ingleburn Station - Macquarie Fields Station,T8,Inbound,0 days 00:03:00,1916.31,180,38.3262
+Macquarie Fields Station - Glenfield Station,T8,Inbound,0 days 00:05:00,1868.17,300,22.41804
+Glenfield Station - Holsworthy Station,T8,Inbound,0 days 00:05:00,6279.22,300,75.35064
+Holsworthy Station - East Hills Station,T8,Inbound,0 days 00:04:00,2724.56,240,40.8684
+East Hills Station - Panania Station,T8,Inbound,0 days 00:02:00,1518.72,120,45.5616
+Panania Station - Revesby Station,T8,Inbound,0 days 00:03:00,1579.06,180,31.5812
+Revesby Station - Wolli Creek Station,T8,Inbound,0 days 00:11:00,13651.34,660,74.46185455
+Wolli Creek Station - International Station,T8,Inbound,0 days 00:02:00,1297.77,120,38.9331
+International Station - Domestic Station,T8,Inbound,0 days 00:02:00,1470.22,120,44.1066
+Domestic Station - Mascot Station,T8,Inbound,0 days 00:03:00,1542.55,180,30.851
+Mascot Station - Green Square Station,T8,Inbound,0 days 00:03:00,2483.63,180,49.6726
+Green Square Station - Central Station,T8,Inbound,0 days 00:04:00,2630,240,39.45
+Granville Station - Clyde Station,T2,Inbound,0 days 00:02:00,568.55,120,17.0565
+Clyde Station - Auburn Station,T2,Inbound,0 days 00:03:00,2082.78,180,41.6556
+Lidcombe Station - Flemington Station,T2,Inbound,0 days 00:03:00,2341.23,180,46.8246
+Flemington Station - Strathfield Station,T2,Inbound,0 days 00:04:00,2444.04,240,36.6606
+Burwood Station - Ashfield Station,T2,Inbound,0 days 00:03:00,2312.21,180,46.2442
+Flemington Station - Homebush Station,T2,Inbound,0 days 00:02:00,1558.92,120,46.7676
+Homebush Station - Strathfield Station,T2,Inbound,0 days 00:03:00,885.12,180,17.7024
+Ashfield Station - Summer Hill Station,T2,Inbound,0 days 00:02:00,1288.08,120,38.6424
+Summer Hill Station - Lewisham Station,T2,Inbound,0 days 00:02:00,854.63,120,25.6389
+Lewisham Station - Petersham Station,T2,Inbound,0 days 00:02:00,759.23,120,22.7769
+Petersham Station - Stanmore Station,T2,Inbound,0 days 00:02:00,802.06,120,24.0618
+Stanmore Station - Newtown Station,T2,Inbound,0 days 00:02:00,1556.12,120,46.6836
+Wolli Creek Station - Turrella Station,T8,Outbound,0 days 00:02:00,1341.91,120,40.2573
+Turrella Station - Bardwell Park Station,T8,Outbound,0 days 00:03:00,1456.81,180,29.1362
+Bardwell Park Station - Bexley North Station,T8,Outbound,0 days 00:02:00,1268.42,120,38.0526
+Bexley North Station - Kingsgrove Station,T8,Outbound,0 days 00:02:00,1256.1,120,37.683
+Kingsgrove Station - Beverly Hills Station,T8,Outbound,0 days 00:03:00,2062.04,180,41.2408
+Beverly Hills Station - Narwee Station,T8,Outbound,0 days 00:02:00,1049.91,120,31.4973
+Narwee Station - Riverwood Station,T8,Outbound,0 days 00:03:00,1756.66,180,35.1332
+Riverwood Station - Padstow Station,T8,Outbound,0 days 00:02:00,1862.24,120,55.8672
+Padstow Station - Revesby Station,T8,Outbound,0 days 00:03:00,1595.95,180,31.919
+Revesby Station - Padstow Station,T8,Inbound,0 days 00:03:00,1594.64,180,31.8928
+Padstow Station - Riverwood Station,T8,Inbound,0 days 00:02:00,1861.28,120,55.8384
+Riverwood Station - Narwee Station,T8,Inbound,0 days 00:03:00,1761.97,180,35.2394
+Narwee Station - Beverly Hills Station,T8,Inbound,0 days 00:02:00,1047.38,120,31.4214
+Beverly Hills Station - Kingsgrove Station,T8,Inbound,0 days 00:03:00,2064.25,180,41.285
+Kingsgrove Station - Bexley North Station,T8,Inbound,0 days 00:02:00,1256.25,120,37.6875
+Bexley North Station - Bardwell Park Station,T8,Inbound,0 days 00:02:00,1267.56,120,38.0268
+Bardwell Park Station - Turrella Station,T8,Inbound,0 days 00:03:00,1457.57,180,29.1514
+Turrella Station - Wolli Creek Station,T8,Inbound,0 days 00:02:00,1342.64,120,40.2792
+Redfern Station - Macdonaldtown Station,T2,Outbound,0 days 00:03:00,1289.93,180,25.7986
+Macdonaldtown Station - Newtown Station,T2,Outbound,0 days 00:02:00,564.98,120,16.9494
+Newtown Station - Stanmore Station,T2,Outbound,0 days 00:02:00,1559.06,120,46.7718
+Stanmore Station - Petersham Station,T2,Outbound,0 days 00:02:00,798.1,120,23.943
+Petersham Station - Lewisham Station,T2,Outbound,0 days 00:02:00,763.81,120,22.9143
+Lewisham Station - Summer Hill Station,T2,Outbound,0 days 00:02:00,854.83,120,25.6449
+Summer Hill Station - Ashfield Station,T2,Outbound,0 days 00:02:00,1286.82,120,38.6046
+Ashfield Station - Croydon Station,T2,Outbound,0 days 00:03:00,1063.06,180,21.2612
+Croydon Station - Burwood Station,T2,Outbound,0 days 00:02:00,1249.86,120,37.4958
+Strathfield Station - Homebush Station,T2,Outbound,0 days 00:02:00,865.75,120,25.9725
+Homebush Station - Flemington Station,T2,Outbound,0 days 00:02:00,1574.85,120,47.2455
+Granville Station - Harris Park Station,T2,Outbound,0 days 00:03:00,1220.8,180,24.416
+Harris Park Station - Parramatta Station,T2,Outbound,0 days 00:02:00,748.34,120,22.4502
+Parramatta Station - Harris Park Station,T2,Inbound,0 days 00:02:00,753.87,120,22.6161
+Harris Park Station - Granville Station,T2,Inbound,0 days 00:02:00,1213.26,120,36.3978
+Newtown Station - Macdonaldtown Station,T2,Inbound,0 days 00:02:00,564.25,120,16.9275
+Macdonaldtown Station - Redfern Station,T2,Inbound,0 days 00:03:00,1284.52,180,25.6904
+Redfern Station - Ashfield Station,T2,Outbound,0 days 00:09:00,7117.53,540,47.4502
+Auburn Station - Granville Station,T2,Outbound,0 days 00:03:00,2652.28,180,53.0456
+Hornsby Station - Waitara Station,T1,Inbound,0 days 00:02:00,1046.95,120,31.4085
+Waitara Station - Wahroonga Station,T1,Inbound,0 days 00:02:00,1440.31,120,43.2093
+Wahroonga Station - Warrawee Station,T1,Inbound,0 days 00:02:00,822.03,120,24.6609
+Warrawee Station - Turramurra Station,T1,Inbound,0 days 00:02:00,1109.82,120,33.2946
+Turramurra Station - Pymble Station,T1,Inbound,0 days 00:03:00,1873.58,180,37.4716
+Pymble Station - Gordon Station,T1,Inbound,0 days 00:03:00,1723.24,180,34.4648
+Gordon Station - Killara Station,T1,Inbound,0 days 00:02:00,1301.82,120,39.0546
+Killara Station - Lindfield Station,T1,Inbound,0 days 00:02:00,1290.05,120,38.7015
+Lindfield Station - Roseville Station,T1,Inbound,0 days 00:02:00,1352.86,120,40.5858
+Roseville Station - Chatswood Station,T1,Inbound,0 days 00:04:00,1536.39,240,23.04585
+Chatswood Station - Artarmon Station,T1,Inbound,0 days 00:02:00,1333.45,120,40.0035
+Artarmon Station - St Leonards Station,T1,Inbound,0 days 00:03:00,1888.74,180,37.7748
+St Leonards Station - Wollstonecraft Station,T1,Inbound,0 days 00:02:00,1303.19,120,39.0957
+Wollstonecraft Station - Waverton Station,T1,Inbound,0 days 00:02:00,1004.79,120,30.1437
+Waverton Station - North Sydney Station,T1,Inbound,0 days 00:04:00,994.55,240,14.91825
+North Sydney Station - Milsons Point Station,T1,Inbound,0 days 00:02:00,732.15,120,21.9645
+Milsons Point Station - Wynyard Station,T1,Inbound,0 days 00:04:00,2403.26,240,36.0489
+Redfern Station - Strathfield Station,T1,Outbound,0 days 00:12:00,10592.86,720,52.9643
+Strathfield Station - Lidcombe Station,T1,Outbound,0 days 00:06:00,4785.28,360,47.8528
+Granville Station - Parramatta Station,T1,Outbound,0 days 00:04:00,1973.9,240,29.6085
+Parramatta Station - Westmead Station,T1,Outbound,0 days 00:02:00,1931.91,120,57.9573
+Westmead Station - Wentworthville Station,T1,Outbound,0 days 00:03:00,1466.76,180,29.3352
+Wentworthville Station - Pendle Hill Station,T1,Outbound,0 days 00:02:00,1662,120,49.86
+Pendle Hill Station - Toongabbie Station,T1,Outbound,0 days 00:02:00,1672.85,120,50.1855
+Toongabbie Station - Seven Hills Station,T1,Outbound,0 days 00:03:00,2098.8,180,41.976
+Seven Hills Station - Blacktown Station,T1,Outbound,0 days 00:04:00,2843.23,240,42.64845
+Blacktown Station - Doonside Station,T1,Outbound,0 days 00:03:00,3651.14,180,73.0228
+Doonside Station - Rooty Hill Station,T1,Outbound,0 days 00:03:00,2337.21,180,46.7442
+Rooty Hill Station - Mount Druitt Station,T1,Outbound,0 days 00:03:00,2382.67,180,47.6534
+Mount Druitt Station - St Marys Station,T1,Outbound,0 days 00:04:00,4171.16,240,62.5674
+St Marys Station - Werrington Station,T1,Outbound,0 days 00:03:00,1671.03,180,33.4206
+Werrington Station - Kingswood Station,T1,Outbound,0 days 00:03:00,3522.94,180,70.4588
+Kingswood Station - Penrith Station,T1,Outbound,0 days 00:04:00,2406.37,240,36.09555
+Penrith Station - Kingswood Station,T1,Inbound,0 days 00:03:00,2408.61,180,48.1722
+Kingswood Station - Werrington Station,T1,Inbound,0 days 00:04:00,3521.66,240,52.8249
+Werrington Station - St Marys Station,T1,Inbound,0 days 00:02:00,1671.56,120,50.1468
+St Marys Station - Mount Druitt Station,T1,Inbound,0 days 00:04:00,4172.32,240,62.5848
+Mount Druitt Station - Blacktown Station,T1,Inbound,0 days 00:07:00,8370.01,420,71.74294286
+Blacktown Station - Seven Hills Station,T1,Inbound,0 days 00:03:00,2807.51,180,56.1502
+Seven Hills Station - Parramatta Station,T1,Inbound,0 days 00:08:00,8858.19,480,66.436425
+Parramatta Station - Strathfield Station,T1,Inbound,0 days 00:12:00,11399.88,720,56.9994
+Strathfield Station - Redfern Station,T1,Inbound,0 days 00:11:00,10580.22,660,57.71029091
+Wynyard Station - Milsons Point Station,T1,Outbound,0 days 00:04:00,2402.94,240,36.0441
+Milsons Point Station - North Sydney Station,T1,Outbound,0 days 00:03:00,718.35,180,14.367
+North Sydney Station - Waverton Station,T1,Outbound,0 days 00:02:00,1005.96,120,30.1788
+Waverton Station - Wollstonecraft Station,T1,Outbound,0 days 00:02:00,1000.8,120,30.024
+Wollstonecraft Station - St Leonards Station,T1,Outbound,0 days 00:03:00,1306.45,180,26.129
+St Leonards Station - Artarmon Station,T1,Outbound,0 days 00:03:00,1888.01,180,37.7602
+Artarmon Station - Chatswood Station,T1,Outbound,0 days 00:03:00,1343.45,180,26.869
+Chatswood Station - Roseville Station,T1,Outbound,0 days 00:03:00,1528.48,180,30.5696
+Roseville Station - Lindfield Station,T1,Outbound,0 days 00:02:00,1354.34,120,40.6302
+Strathfield Station - Rhodes Station,T9,Outbound,0 days 00:07:00,4704.27,420,40.32231429
+Strathfield Station - Parramatta Station,T1,Outbound,0 days 00:13:00,11386.55,780,52.55330769
+Hornsby Station - Normanhurst Station,T9,Inbound,0 days 00:02:00,2100.13,120,63.0039
+Normanhurst Station - Thornleigh Station,T9,Inbound,0 days 00:03:00,2273.56,180,45.4712
+Thornleigh Station - Pennant Hills Station,T9,Inbound,0 days 00:02:00,841.97,120,25.2591
+Pennant Hills Station - Beecroft Station,T9,Inbound,0 days 00:03:00,1621.44,180,32.4288
+Beecroft Station - Cheltenham Station,T9,Inbound,0 days 00:02:00,1555.34,120,46.6602
+Cheltenham Station - Epping Station,T9,Inbound,0 days 00:04:00,2062.43,240,30.93645
+Epping Station - Eastwood Station,T9,Inbound,0 days 00:03:00,1954.8,180,39.096
+Eastwood Station - Denistone Station,T9,Inbound,0 days 00:03:00,1188.88,180,23.7776
+Denistone Station - West Ryde Station,T9,Inbound,0 days 00:02:00,1017.02,120,30.5106
+West Ryde Station - Meadowbank Station,T9,Inbound,0 days 00:02:00,977.72,120,29.3316
+Meadowbank Station - Rhodes Station,T9,Inbound,0 days 00:02:00,1680.67,120,50.4201
+Rhodes Station - Concord West Station,T9,Inbound,0 days 00:03:00,2007.87,180,40.1574
+Concord West Station - North Strathfield Station,T9,Inbound,0 days 00:02:00,1176.67,120,35.3001
+North Strathfield Station - Strathfield Station,T9,Inbound,0 days 00:05:00,1510.88,300,18.13056
+Burwood Station - Redfern Station,T9,Inbound,0 days 00:10:00,9412.64,600,56.47584
+Lindfield Station - Killara Station,T1,Outbound,0 days 00:02:00,1289.39,120,38.6817
+Killara Station - Gordon Station,T1,Outbound,0 days 00:03:00,1302.23,180,26.0446
+Gordon Station - Pymble Station,T1,Outbound,0 days 00:02:00,1721.09,120,51.6327
+Pymble Station - Turramurra Station,T1,Outbound,0 days 00:03:00,1877,180,37.54
+Turramurra Station - Warrawee Station,T1,Outbound,0 days 00:02:00,1111.91,120,33.3573
+Warrawee Station - Wahroonga Station,T1,Outbound,0 days 00:02:00,819.88,120,24.5964
+Wahroonga Station - Waitara Station,T1,Outbound,0 days 00:02:00,1440.97,120,43.2291
+Waitara Station - Hornsby Station,T1,Outbound,0 days 00:04:00,1052.66,240,15.7899
+Hornsby Station - Asquith Station,T1,Outbound,0 days 00:03:00,1912.95,180,38.259
+Asquith Station - Mount Colah Station,T1,Outbound,0 days 00:03:00,2003.37,180,40.0674
+Mount Colah Station - Mount Kuring-gai Station,T1,Outbound,0 days 00:03:00,2920.18,180,58.4036
+Mount Kuring-gai Station - Berowra Station,T1,Outbound,0 days 00:04:00,4032.82,240,60.4923
+Berowra Station - Mount Kuring-gai Station,T9,Inbound,0 days 00:04:00,4030.62,240,60.4593
+Mount Kuring-gai Station - Mount Colah Station,T9,Inbound,0 days 00:03:00,2923.2,180,58.464
+Mount Colah Station - Asquith Station,T9,Inbound,0 days 00:03:00,1999.64,180,39.9928
+Asquith Station - Hornsby Station,T9,Inbound,0 days 00:04:00,1913.53,240,28.70295
+Redfern Station - Burwood Station,T9,Outbound,0 days 00:09:00,9415.35,540,62.769
+Rhodes Station - West Ryde Station,T9,Outbound,0 days 00:04:00,2657.34,240,39.8601
+West Ryde Station - Eastwood Station,T9,Outbound,0 days 00:03:00,2205.05,180,44.101
+Eastwood Station - Epping Station,T9,Outbound,0 days 00:03:00,1953.75,180,39.075
+Gordon Station - Turramurra Station,T1,Outbound,0 days 00:04:00,3598.09,240,53.97135
+Turramurra Station - Waitara Station,T1,Outbound,0 days 00:05:00,3372.76,300,40.47312
+Gordon Station - Chatswood Station,T1,Inbound,0 days 00:08:00,5481.12,480,41.1084
+Parramatta Station - Blacktown Station,T1,Outbound,0 days 00:10:00,11671.96,600,70.03176
+Penrith Station - Emu Plains Station,T1,Outbound,0 days 00:03:00,2424.05,180,48.481
+Emu Plains Station - Penrith Station,T1,Inbound,0 days 00:06:00,2425.62,360,24.2562
+Mount Druitt Station - Rooty Hill Station,T1,Inbound,0 days 00:03:00,2370.96,180,47.4192
+Rooty Hill Station - Doonside Station,T1,Inbound,0 days 00:03:00,2340.29,180,46.8058
+Doonside Station - Blacktown Station,T1,Inbound,0 days 00:04:00,3661.4,240,54.921
+Seven Hills Station - Westmead Station,T1,Inbound,0 days 00:05:00,6907.5,300,82.89
+Westmead Station - Parramatta Station,T1,Inbound,0 days 00:04:00,1957.66,240,29.3649
+Parramatta Station - Lidcombe Station,T1,Inbound,0 days 00:06:00,6613.62,360,66.1362
+Lidcombe Station - Parramatta Station,T1,Outbound,0 days 00:08:00,6592.64,480,49.4448
+Westmead Station - Seven Hills Station,T1,Outbound,0 days 00:06:00,6900.41,360,69.0041
+Lidcombe Station - Homebush Station,T1,Inbound,0 days 00:05:00,3902.86,300,46.83432
+Strathfield Station - North Strathfield Station,T9,Outbound,0 days 00:03:00,1514.65,180,30.293
+North Strathfield Station - Concord West Station,T9,Outbound,0 days 00:02:00,1177.18,120,35.3154
+Concord West Station - Rhodes Station,T9,Outbound,0 days 00:03:00,2010.44,180,40.2088
+Rhodes Station - Meadowbank Station,T9,Outbound,0 days 00:02:00,1678.56,120,50.3568
+Meadowbank Station - West Ryde Station,T9,Outbound,0 days 00:02:00,978.78,120,29.3634
+West Ryde Station - Denistone Station,T9,Outbound,0 days 00:02:00,1011.58,120,30.3474
+Denistone Station - Eastwood Station,T9,Outbound,0 days 00:02:00,1193.47,120,35.8041
+Epping Station - Cheltenham Station,T9,Outbound,0 days 00:03:00,2063.59,180,41.2718
+Cheltenham Station - Beecroft Station,T9,Outbound,0 days 00:02:00,1561.59,120,46.8477
+Beecroft Station - Pennant Hills Station,T9,Outbound,0 days 00:03:00,1632.28,180,32.6456
+Pennant Hills Station - Thornleigh Station,T9,Outbound,0 days 00:02:00,829.45,120,24.8835
+Thornleigh Station - Normanhurst Station,T9,Outbound,0 days 00:03:00,2270.27,180,45.4054
+Normanhurst Station - Hornsby Station,T9,Outbound,0 days 00:02:00,2103.81,120,63.1143
+Eastwood Station - West Ryde Station,T9,Inbound,0 days 00:03:00,2204.58,180,44.0916
+West Ryde Station - Rhodes Station,T9,Inbound,0 days 00:04:00,2656.65,240,39.84975
+Rhodes Station - Strathfield Station,T9,Inbound,0 days 00:06:00,4678.08,360,46.7808
+Burwood Station - Central Station,T9,Inbound,0 days 00:12:00,10937.62,720,54.6881
+Central Station - Burwood Station,T9,Outbound,0 days 00:11:00,10613.11,660,57.88969091
+Waitara Station - Turramurra Station,T1,Inbound,0 days 00:05:00,3372.16,300,40.46592
+Turramurra Station - Gordon Station,T1,Inbound,0 days 00:05:00,3596.82,300,43.16184
+Parramatta Station - Seven Hills Station,T1,Outbound,0 days 00:07:00,8832.44,420,75.70662857
+St Marys Station - Penrith Station,T1,Outbound,0 days 00:07:00,7603.72,420,65.17474286
+Seven Hills Station - Toongabbie Station,T1,Inbound,0 days 00:03:00,2156.46,180,43.1292
+Toongabbie Station - Pendle Hill Station,T1,Inbound,0 days 00:02:00,1665.4,120,49.962
+Pendle Hill Station - Wentworthville Station,T1,Inbound,0 days 00:03:00,1646.61,180,32.9322
+Wentworthville Station - Westmead Station,T1,Inbound,0 days 00:02:00,1439.03,120,43.1709
+Parramatta Station - Granville Station,T1,Inbound,0 days 00:03:00,1968.98,180,39.3796
+Wolli Creek Station - Riverwood Station,T8,Outbound,0 days 00:11:00,10191.85,660,55.59190909
+Padstow Station - Holsworthy Station,T8,Outbound,0 days 00:07:00,7417.26,420,63.57651429
+Schofields Station - Quakers Hill Station,T1,Inbound,0 days 00:03:00,2835.51,180,56.7102
+Quakers Hill Station - Marayong Station,T1,Inbound,0 days 00:03:00,2536.85,180,50.737
+Marayong Station - Blacktown Station,T1,Inbound,0 days 00:04:00,2560.52,240,38.4078
+Gordon Station - Hornsby Station,T1,Outbound,0 days 00:13:00,8023.51,780,37.03158462
+Blacktown Station - Marayong Station,T1,Outbound,0 days 00:03:00,2568.93,180,51.3786
+Marayong Station - Quakers Hill Station,T1,Outbound,0 days 00:03:00,2535.83,180,50.7166
+Quakers Hill Station - Schofields Station,T1,Outbound,0 days 00:03:00,2836.78,180,56.7356
+North Sydney Station - St Leonards Station,T1,Outbound,0 days 00:06:00,3313.21,360,33.1321
+St Leonards Station - Chatswood Station,T1,Outbound,0 days 00:05:00,3231.46,300,38.77752
+Chatswood Station - Gordon Station,T1,Outbound,0 days 00:08:00,5471.83,480,41.038725
+Homebush Station - Lidcombe Station,T1,Outbound,0 days 00:05:00,3905.38,300,46.86456
+Wolli Creek Station - Holsworthy Station,T8,Outbound,0 days 00:16:00,19472.07,960,73.0202625
+Schofields Station - Riverstone Station,T1,Outbound,0 days 00:05:00,3077.06,300,36.92472
+Riverstone Station - Vineyard Station,T1,Outbound,0 days 00:05:00,3386.35,300,40.6362
+Vineyard Station - Mulgrave Station,T1,Outbound,0 days 00:03:00,3335.46,180,66.7092
+Mulgrave Station - Windsor Station,T1,Outbound,0 days 00:04:00,2404.47,240,36.06705
+Windsor Station - Clarendon Station,T1,Outbound,0 days 00:04:00,2222.11,240,33.33165
+Clarendon Station - East Richmond Station,T1,Outbound,0 days 00:03:00,2786.84,180,55.7368
+East Richmond Station - Richmond Station,T1,Outbound,0 days 00:03:00,659.81,180,13.1962
+Richmond Station - East Richmond Station,T1,Inbound,0 days 00:02:00,659.81,120,19.7943
+East Richmond Station - Clarendon Station,T1,Inbound,0 days 00:05:00,2787.3,300,33.4476
+Clarendon Station - Windsor Station,T1,Inbound,0 days 00:03:00,2221.71,180,44.4342
+Windsor Station - Mulgrave Station,T1,Inbound,0 days 00:03:00,2405.03,180,48.1006
+Mulgrave Station - Vineyard Station,T1,Inbound,0 days 00:03:00,3337.05,180,66.741
+Vineyard Station - Riverstone Station,T1,Inbound,0 days 00:06:00,3354.7,360,33.547
+Riverstone Station - Schofields Station,T1,Inbound,0 days 00:04:00,3109.34,240,46.6401
+Chatswood Station - Lindfield Station,T1,Outbound,0 days 00:03:00,2882.82,180,57.6564
+Lindfield Station - Chatswood Station,T1,Inbound,0 days 00:05:00,2888.41,300,34.66092
+Chatswood Station - St Leonards Station,T1,Inbound,0 days 00:04:00,3222.18,240,48.3327
+St Leonards Station - North Sydney Station,T1,Inbound,0 days 00:07:00,3302.54,420,28.30748571
+Hornsby Station - Warrawee Station,T1,Inbound,0 days 00:04:00,3309.29,240,49.63935
+Ashfield Station - Redfern Station,T2,Inbound,0 days 00:09:00,7108.89,540,47.3926
+Wahroonga Station - Turramurra Station,T1,Inbound,0 days 00:04:00,1931.86,240,28.9779
+Blacktown Station - Schofields Station,T1,Outbound,0 days 00:06:00,7941.54,360,79.4154
+Lindfield Station - Gordon Station,T1,Outbound,0 days 00:05:00,2591.62,300,31.09944
+Granville Station - Lidcombe Station,T1,Outbound,0 days 00:05:00,4630.08,300,55.56096
+Blacktown Station - Parramatta Station,T1,Inbound,0 days 00:11:00,11664.11,660,63.62241818
+Cabramatta Station - Chester Hill Station,T3,Inbound,0 days 00:06:00,6188.4,360,61.884
+Chester Hill Station - Sefton Station,T3,Inbound,0 days 00:02:00,1085.59,120,32.5677
+Sefton Station - Birrong Station,T3,Inbound,0 days 00:04:00,1705.67,240,25.58505
+Birrong Station - Bankstown Station,T3,Inbound,0 days 00:05:00,3417.22,300,41.00664
+Bankstown Station - Lakemba Station,T3,Inbound,0 days 00:05:00,4258.5,300,51.102
+Lakemba Station - Campsie Station,T3,Inbound,0 days 00:04:00,2821.17,240,42.31755
+Campsie Station - Dulwich Hill Station,T3,Inbound,0 days 00:05:00,3785.82,300,45.42984
+Sydenham Station - Redfern Station,T3,Inbound,0 days 00:06:00,4047.4,360,40.474
+Holsworthy Station - Revesby Station,T8,Inbound,0 days 00:06:00,5822.34,360,58.2234
+Birrong Station - Sefton Station,T3,Outbound,0 days 00:04:00,1698.87,240,25.48305
+Sefton Station - Chester Hill Station,T3,Outbound,0 days 00:02:00,1085.44,120,32.5632
+Chester Hill Station - Leightonfield Station,T3,Outbound,0 days 00:02:00,1394.82,120,41.8446
+Leightonfield Station - Villawood Station,T3,Outbound,0 days 00:02:00,779.86,120,23.3958
+Villawood Station - Carramar Station,T3,Outbound,0 days 00:02:00,1512.6,120,45.378
+Carramar Station - Cabramatta Station,T3,Outbound,0 days 00:03:00,2493.23,180,49.8646
+Cabramatta Station - Carramar Station,T3,Inbound,0 days 00:03:00,2498.38,180,49.9676
+Carramar Station - Villawood Station,T3,Inbound,0 days 00:03:00,1513.81,180,30.2762
+Villawood Station - Leightonfield Station,T3,Inbound,0 days 00:02:00,786.25,120,23.5875
+Leightonfield Station - Chester Hill Station,T3,Inbound,0 days 00:02:00,1389.96,120,41.6988
+Campsie Station - Sydenham Station,T3,Inbound,0 days 00:08:00,6339.92,480,47.5494
+St Peters Station - Redfern Station,T3,Inbound,0 days 00:04:00,2533.98,240,38.0097
+Redfern Station - Sydenham Station,T3,Outbound,0 days 00:06:00,4050.44,360,40.5044
+Marrickville Station - Campsie Station,T3,Outbound,0 days 00:06:00,5030.4,360,50.304
+Campsie Station - Lakemba Station,T3,Outbound,0 days 00:05:00,2817.35,300,33.8082
+Lakemba Station - Bankstown Station,T3,Outbound,0 days 00:07:00,4262.87,420,36.53888571
+Bankstown Station - Birrong Station,T3,Outbound,0 days 00:05:00,3424.77,300,41.09724
+Campsie Station - Marrickville Station,T3,Inbound,0 days 00:07:00,5026.24,420,43.08205714
+Redfern Station - St Peters Station,T8,Outbound,0 days 00:03:00,2538.2,180,50.764
+Sydenham Station - Revesby Station,T8,Outbound,0 days 00:14:00,15612.96,840,66.91268571
+Glenfield Station - Ingleburn Station,T8,Outbound,0 days 00:04:00,3784.74,240,56.7711
+Punchbowl Station - Campsie Station,T3,Inbound,0 days 00:06:00,4803.54,360,48.0354
+Ingleburn Station - Glenfield Station,T8,Inbound,0 days 00:06:00,3784.47,360,37.8447
+Revesby Station - Sydenham Station,T8,Inbound,0 days 00:15:00,15607.2,900,62.4288
+Central Station - Strathfield Station,CCN,Outbound,0 days 00:13:00,11776.66,780,54.35381538
+Strathfield Station - Epping Station,CCN,Outbound,0 days 00:12:00,11565.78,720,57.8289
+Epping Station - Hornsby Station,CCN,Outbound,0 days 00:12:00,10409.79,720,52.04895
+Hornsby Station - Berowra Station,CCN,Outbound,0 days 00:09:00,10873.99,540,72.49326667
+Berowra Station - Cowan Station,CCN,Outbound,0 days 00:05:00,4127.5,300,49.53
+Cowan Station - Hawkesbury River Station,CCN,Outbound,0 days 00:10:00,8595.02,600,51.57012
+Hawkesbury River Station - Wondabyne Station,CCN,Outbound,0 days 00:07:00,7794.51,420,66.81008571
+Wondabyne Station - Woy Woy Station,CCN,Outbound,0 days 00:07:00,7436.84,420,63.74434286
+Woy Woy Station - Koolewong Station,CCN,Outbound,0 days 00:02:00,2270.44,120,68.1132
+Koolewong Station - Tascott Station,CCN,Outbound,0 days 00:03:00,2067.91,180,41.3582
+Tascott Station - Point Clare Station,CCN,Outbound,0 days 00:02:00,1118.86,120,33.5658
+Point Clare Station - Gosford Station,CCN,Outbound,0 days 00:05:00,2882.54,300,34.59048
+Gosford Station - Narara Station,CCN,Outbound,0 days 00:05:00,3687.18,300,44.24616
+Narara Station - Niagara Park Station,CCN,Outbound,0 days 00:02:00,1613,120,48.39
+Niagara Park Station - Lisarow Station,CCN,Outbound,0 days 00:03:00,1521.18,180,30.4236
+Lisarow Station - Ourimbah Station,CCN,Outbound,0 days 00:02:00,2859.19,120,85.7757
+Ourimbah Station - Tuggerah Station,CCN,Outbound,0 days 00:06:00,7821.14,360,78.2114
+Tuggerah Station - Wyong Station,CCN,Outbound,0 days 00:03:00,2527.31,180,50.5462
+Wyong Station - Warnervale Station,CCN,Outbound,0 days 00:04:00,4821.82,240,72.3273
+Warnervale Station - Wyee Station,CCN,Outbound,0 days 00:07:00,9021.34,420,77.32577143
+Wyee Station - Morisset Station,CCN,Outbound,0 days 00:06:00,8497.72,360,84.9772
+Morisset Station - Dora Creek Station,CCN,Outbound,0 days 00:04:00,3775.5,240,56.6325
+Dora Creek Station - Awaba Station,CCN,Outbound,0 days 00:09:00,10211.68,540,68.07786667
+Awaba Station - Fassifern Station,CCN,Outbound,0 days 00:05:00,4988.12,300,59.85744
+Fassifern Station - Booragul Station,CCN,Outbound,0 days 00:04:00,4036.38,240,60.5457
+Booragul Station - Teralba Station,CCN,Outbound,0 days 00:02:00,1242.46,120,37.2738
+Teralba Station - Cockle Creek Station,CCN,Outbound,0 days 00:03:00,3060.74,180,61.2148
+Cockle Creek Station - Cardiff Station,CCN,Outbound,0 days 00:05:00,4287.57,300,51.45084
+Cardiff Station - Kotara Station,CCN,Outbound,0 days 00:05:00,3814.98,300,45.77976
+Kotara Station - Adamstown Station,CCN,Outbound,0 days 00:02:00,2289.13,120,68.6739
+Adamstown Station - Broadmeadow Station,CCN,Outbound,0 days 00:03:00,1821.89,180,36.4378
+Broadmeadow Station - Hamilton Station,CCN,Outbound,0 days 00:04:00,1606.41,240,24.09615
+Hamilton Station - Newcastle Interchange,CCN,Outbound,0 days 00:04:00,1174.71,240,17.62065
+Newcastle Interchange - Hamilton Station,CCN,Inbound,0 days 00:03:00,1152.54,180,23.0508
+Hamilton Station - Broadmeadow Station,CCN,Inbound,0 days 00:03:00,1622.29,180,32.4458
+Broadmeadow Station - Adamstown Station,CCN,Inbound,0 days 00:03:00,1827.73,180,36.5546
+Adamstown Station - Kotara Station,CCN,Inbound,0 days 00:03:00,2286.52,180,45.7304
+Kotara Station - Cardiff Station,CCN,Inbound,0 days 00:04:00,3830.6,240,57.459
+Cardiff Station - Cockle Creek Station,CCN,Inbound,0 days 00:04:00,4286.38,240,64.2957
+Cockle Creek Station - Teralba Station,CCN,Inbound,0 days 00:03:00,3061.69,180,61.2338
+Teralba Station - Booragul Station,CCN,Inbound,0 days 00:02:00,1234.17,120,37.0251
+Booragul Station - Fassifern Station,CCN,Inbound,0 days 00:05:00,4037.18,300,48.44616
+Fassifern Station - Awaba Station,CCN,Inbound,0 days 00:04:00,4993.81,240,74.90715
+Awaba Station - Dora Creek Station,CCN,Inbound,0 days 00:09:00,10203.54,540,68.0236
+Dora Creek Station - Morisset Station,CCN,Inbound,0 days 00:05:00,3779.26,300,45.35112
+Morisset Station - Wyee Station,CCN,Inbound,0 days 00:06:00,8494.98,360,84.9498
+Wyee Station - Warnervale Station,CCN,Inbound,0 days 00:06:00,9025.53,360,90.2553
+Warnervale Station - Wyong Station,CCN,Inbound,0 days 00:06:00,4817.38,360,48.1738
+Wyong Station - Tuggerah Station,CCN,Inbound,0 days 00:03:00,2528.76,180,50.5752
+Tuggerah Station - Ourimbah Station,CCN,Inbound,0 days 00:05:00,7819.36,300,93.83232
+Ourimbah Station - Lisarow Station,CCN,Inbound,0 days 00:03:00,2864.71,180,57.2942
+Lisarow Station - Niagara Park Station,CCN,Inbound,0 days 00:02:00,1517.55,120,45.5265
+Niagara Park Station - Narara Station,CCN,Inbound,0 days 00:03:00,1613.53,180,32.2706
+Narara Station - Gosford Station,CCN,Inbound,0 days 00:05:00,3685.71,300,44.22852
+Gosford Station - Point Clare Station,CCN,Inbound,0 days 00:03:00,2882.85,180,57.657
+Point Clare Station - Tascott Station,CCN,Inbound,0 days 00:02:00,1121.63,120,33.6489
+Tascott Station - Koolewong Station,CCN,Inbound,0 days 00:03:00,2062.51,180,41.2502
+Koolewong Station - Woy Woy Station,CCN,Inbound,0 days 00:03:00,2275.13,180,45.5026
+Woy Woy Station - Wondabyne Station,CCN,Inbound,0 days 00:07:00,7432.1,420,63.70371429
+Wondabyne Station - Hawkesbury River Station,CCN,Inbound,0 days 00:07:00,7806.62,420,66.91388571
+Hawkesbury River Station - Cowan Station,CCN,Inbound,0 days 00:09:00,8598.83,540,57.32553333
+Cowan Station - Berowra Station,CCN,Inbound,0 days 00:06:00,4130.12,360,41.3012
+Berowra Station - Hornsby Station,CCN,Inbound,0 days 00:10:00,10867.46,600,65.20476
+Hornsby Station - Epping Station,CCN,Inbound,0 days 00:13:00,10454.87,780,48.25324615
+Epping Station - Strathfield Station,CCN,Inbound,0 days 00:11:00,11494.84,660,62.69912727
+Strathfield Station - Central Station,CCN,Inbound,0 days 00:13:00,12094.69,780,55.82164615
+Hawkesbury River Station - Woy Woy Station,CCN,Outbound,0 days 00:13:00,15231.35,780,70.29853846
+Woy Woy Station - Hawkesbury River Station,CCN,Inbound,0 days 00:13:00,15238.71,780,70.33250769
+Berowra Station - Asquith Station,CCN,Inbound,0 days 00:08:00,8953.82,480,67.15365
+Holsworthy Station - Padstow Station,T8,Inbound,0 days 00:08:00,7416.64,480,55.6248
+Riverwood Station - Wolli Creek Station,T8,Inbound,0 days 00:11:00,10197.62,660,55.62338182
+Sydenham Station - Erskineville Station,T3,Inbound,0 days 00:04:00,2426.73,240,36.40095
+Revesby Station - East Hills Station,T8,Outbound,0 days 00:05:00,3095.41,300,37.14492
+Broadmeadow Station - Cardiff Station,CCN,Outbound,0 days 00:07:00,7944.85,420,68.09871429
+Cardiff Station - Fassifern Station,CCN,Outbound,0 days 00:10:00,12619.42,600,75.71652
+Fassifern Station - Morisset Station,CCN,Outbound,0 days 00:15:00,18976.6,900,75.9064
+Morisset Station - Wyong Station,CCN,Outbound,0 days 00:14:00,22337.9,840,95.73385714
+Tuggerah Station - Gosford Station,CCN,Outbound,0 days 00:13:00,17500.85,780,80.77315385
+Gosford Station - Woy Woy Station,CCN,Outbound,0 days 00:08:00,8342.13,480,62.565975
+Woy Woy Station - Hornsby Station,CCN,Outbound,0 days 00:33:00,38835.13,1980,70.60932727
+Berowra Station - Woy Woy Station,CCN,Outbound,0 days 00:26:00,27953.47,1560,64.50800769
+Asquith Station - Berowra Station,CCN,Outbound,0 days 00:08:00,8956.87,480,67.176525
+Woy Woy Station - Berowra Station,CCN,Inbound,0 days 00:25:00,27967.66,1500,67.122384
+Hornsby Station - Gordon Station,CCN,Outbound,0 days 00:11:00,8015.93,660,43.72325455
+Ourimbah Station - Narara Station,CCN,Inbound,0 days 00:05:00,5995.79,300,71.94948
+Woy Woy Station - Gosford Station,CCN,Outbound,0 days 00:09:00,8339.74,540,55.59826667
+Hornsby Station - Woy Woy Station,CCN,Outbound,0 days 00:33:00,38827.98,1980,70.59632727
+Gosford Station - Tuggerah Station,CCN,Outbound,0 days 00:13:00,17501.69,780,80.77703077
+Wyong Station - Morisset Station,CCN,Outbound,0 days 00:13:00,22340.87,780,103.1117077
+Morisset Station - Fassifern Station,CCN,Outbound,0 days 00:15:00,18975.31,900,75.90124
+Fassifern Station - Cardiff Station,CCN,Outbound,0 days 00:10:00,12627.14,600,75.76284
+Cardiff Station - Broadmeadow Station,CCN,Outbound,0 days 00:07:00,7926,420,67.93714286
+Wollongong Station - North Wollongong Station,SCO,Inbound,0 days 00:02:00,1666.09,120,49.9827
+North Wollongong Station - Fairy Meadow Station,SCO,Inbound,0 days 00:02:00,1955.42,120,58.6626
+Fairy Meadow Station - Towradgi Station,SCO,Inbound,0 days 00:02:00,1305.83,120,39.1749
+Towradgi Station - Corrimal Station,SCO,Inbound,0 days 00:02:00,1030.56,120,30.9168
+Corrimal Station - Bellambi Station,SCO,Inbound,0 days 00:02:00,1494.03,120,44.8209
+Bellambi Station - Woonona Station,SCO,Inbound,0 days 00:03:00,1541.53,180,30.8306
+Woonona Station - Bulli Station,SCO,Inbound,0 days 00:02:00,1808,120,54.24
+Bulli Station - Thirroul Station,SCO,Inbound,0 days 00:03:00,1946.53,180,38.9306
+Thirroul Station - Austinmer Station,SCO,Inbound,0 days 00:03:00,1595.88,180,31.9176
+Austinmer Station - Coledale Station,SCO,Inbound,0 days 00:02:00,2358.55,120,70.7565
+Coledale Station - Wombarra Station,SCO,Inbound,0 days 00:03:00,1956.51,180,39.1302
+Wombarra Station - Scarborough Station,SCO,Inbound,0 days 00:03:00,1701,180,34.02
+Scarborough Station - Coalcliff Station,SCO,Inbound,0 days 00:04:00,3323.94,240,49.8591
+Coalcliff Station - Stanwell Park Station,SCO,Inbound,0 days 00:05:00,3321.8,300,39.8616
+Stanwell Park Station - Otford Station,SCO,Inbound,0 days 00:05:00,3219.85,300,38.6382
+Otford Station - Helensburgh Station,SCO,Inbound,0 days 00:08:00,6364.71,480,47.735325
+Helensburgh Station - Waterfall Station,SCO,Inbound,0 days 00:08:00,7617.94,480,57.13455
+Waterfall Station - Heathcote Station,T4,Inbound,0 days 00:05:00,5657.36,300,67.88832
+Heathcote Station - Engadine Station,T4,Inbound,0 days 00:03:00,2381.14,180,47.6228
+Engadine Station - Loftus Station,T4,Inbound,0 days 00:04:00,4478.63,240,67.17945
+Loftus Station - Sutherland Station,T4,Inbound,0 days 00:03:00,1649.26,180,32.9852
+Sutherland Station - Jannali Station,T4,Inbound,0 days 00:02:00,1925.18,120,57.7554
+Jannali Station - Mortdale Station,T4,Inbound,0 days 00:07:00,5604.04,420,48.03462857
+Mortdale Station - Penshurst Station,T4,Inbound,0 days 00:02:00,943.07,120,28.2921
+Penshurst Station - Hurstville Station,T4,Inbound,0 days 00:03:00,1339.88,180,26.7976
+Hurstville Station - Wolli Creek Station,T4,Inbound,0 days 00:07:00,7514.53,420,64.41025714
+Wolli Creek Station - Sydenham Station,T4,Inbound,0 days 00:04:00,1997.45,240,29.96175
+Town Hall Station - Martin Place Station,T4,Outbound,0 days 00:02:00,928.88,120,27.8664
+Martin Place Station - Kings Cross Station,T4,Outbound,0 days 00:02:00,1233.22,120,36.9966
+Kings Cross Station - Edgecliff Station,T4,Outbound,0 days 00:03:00,1486.48,180,29.7296
+Edgecliff Station - Bondi Junction Station,T4,Outbound,0 days 00:03:00,1904.41,180,38.0882
+Leightonfield Station - Bankstown Station,T3,Inbound,0 days 00:10:00,7598.44,600,45.59064
+Bankstown Station - Belmore Station,T3,Inbound,0 days 00:06:00,5463.36,360,54.6336
+Belmore Station - Dulwich Hill Station,T3,Inbound,0 days 00:08:00,5402.13,480,40.515975
+Port Kembla Station - Port Kembla North Station,SCO,Inbound,0 days 00:03:00,1592.05,180,31.841
+Port Kembla North Station - Cringila Station,SCO,Inbound,0 days 00:02:00,1057.22,120,31.7166
+Cringila Station - Lysaghts Station,SCO,Inbound,0 days 00:03:00,1398.18,180,27.9636
+Lysaghts Station - Coniston Station,SCO,Inbound,0 days 00:03:00,2123.1,180,42.462
+Coniston Station - Wollongong Station,SCO,Inbound,0 days 00:03:00,1222.54,180,24.4508
+Martin Place Station - Town Hall Station,SCO,Inbound,0 days 00:03:00,897.51,180,17.9502
+Redfern Station - Wolli Creek Station,SCO,Outbound,0 days 00:08:00,6257.81,480,46.933575
+Wolli Creek Station - Hurstville Station,SCO,Outbound,0 days 00:11:00,7527.28,660,41.05789091
+Hurstville Station - Sutherland Station,SCO,Outbound,0 days 00:11:00,9815.31,660,53.53805455
+Sutherland Station - Waterfall Station,SCO,Outbound,0 days 00:12:00,14158.71,720,70.79355
+Waterfall Station - Helensburgh Station,SCO,Outbound,0 days 00:09:00,7602.34,540,50.68226667
+Helensburgh Station - Otford Station,SCO,Outbound,0 days 00:08:00,6344.91,480,47.586825
+Otford Station - Stanwell Park Station,SCO,Outbound,0 days 00:04:00,3246.02,240,48.6903
+Stanwell Park Station - Coalcliff Station,SCO,Outbound,0 days 00:05:00,3319.32,300,39.83184
+Coalcliff Station - Scarborough Station,SCO,Outbound,0 days 00:05:00,3325.67,300,39.90804
+Scarborough Station - Wombarra Station,SCO,Outbound,0 days 00:02:00,1699.26,120,50.9778
+Wombarra Station - Coledale Station,SCO,Outbound,0 days 00:03:00,1959.03,180,39.1806
+Coledale Station - Austinmer Station,SCO,Outbound,0 days 00:03:00,2345.46,180,46.9092
+Austinmer Station - Thirroul Station,SCO,Outbound,0 days 00:02:00,1605.96,120,48.1788
+Thirroul Station - Bulli Station,SCO,Outbound,0 days 00:03:00,1931.97,180,38.6394
+Bulli Station - Woonona Station,SCO,Outbound,0 days 00:02:00,1820.79,120,54.6237
+Woonona Station - Bellambi Station,SCO,Outbound,0 days 00:02:00,1542.05,120,46.2615
+Bellambi Station - Corrimal Station,SCO,Outbound,0 days 00:03:00,1485.72,180,29.7144
+Corrimal Station - Towradgi Station,SCO,Outbound,0 days 00:01:00,1040.73,60,62.4438
+Towradgi Station - Fairy Meadow Station,SCO,Outbound,0 days 00:02:00,1305.8,120,39.174
+Fairy Meadow Station - North Wollongong Station,SCO,Outbound,0 days 00:03:00,1953.36,180,39.0672
+North Wollongong Station - Wollongong Station,SCO,Outbound,0 days 00:03:00,1652.02,180,33.0404
+Helensburgh Station - Heathcote Station,SCO,Inbound,0 days 00:12:00,13275.29,720,66.37645
+Engadine Station - Sutherland Station,SCO,Inbound,0 days 00:06:00,6127.88,360,61.2788
+Sutherland Station - Oatley Station,SCO,Inbound,0 days 00:07:00,6407.54,420,54.92177143
+Oatley Station - Hurstville Station,SCO,Inbound,0 days 00:05:00,3404.64,300,40.85568
+Wolli Creek Station - Redfern Station,SCO,Inbound,0 days 00:10:00,6252.32,600,37.51392
+Bondi Junction Station - Edgecliff Station,T4,Inbound,0 days 00:03:00,1915.9,180,38.318
+Edgecliff Station - Kings Cross Station,T4,Inbound,0 days 00:03:00,1492.02,180,29.8404
+Kings Cross Station - Martin Place Station,T4,Inbound,0 days 00:02:00,1218.4,120,36.552
+Sydenham Station - Tempe Station,T4,Outbound,0 days 00:03:00,1481.81,180,29.6362
+Tempe Station - Wolli Creek Station,T4,Outbound,0 days 00:01:00,515.78,60,30.9468
+Wolli Creek Station - Arncliffe Station,T4,Outbound,0 days 00:03:00,1138.26,180,22.7652
+Arncliffe Station - Banksia Station,T4,Outbound,0 days 00:02:00,1149.62,120,34.4886
+Banksia Station - Rockdale Station,T4,Outbound,0 days 00:02:00,854.73,120,25.6419
+Rockdale Station - Kogarah Station,T4,Outbound,0 days 00:02:00,1248.61,120,37.4583
+Kogarah Station - Carlton Station,T4,Outbound,0 days 00:02:00,1053.71,120,31.6113
+Carlton Station - Allawah Station,T4,Outbound,0 days 00:02:00,954.27,120,28.6281
+Allawah Station - Hurstville Station,T4,Outbound,0 days 00:03:00,1107.24,180,22.1448
+Sutherland Station - Helensburgh Station,SCO,Outbound,0 days 00:22:00,21784.84,1320,59.4132
+Helensburgh Station - Stanwell Park Station,SCO,Outbound,0 days 00:11:00,9582.47,660,52.26801818
+Stanwell Park Station - Austinmer Station,SCO,Outbound,0 days 00:13:00,12648.74,780,58.3788
+Thirroul Station - North Wollongong Station,SCO,Outbound,0 days 00:09:00,11080.42,540,73.86946667
+Helensburgh Station - Thirroul Station,SCO,Outbound,0 days 00:24:00,23845.63,1440,59.614075
+Hurlstone Park Station - Sydenham Station,T3,Inbound,0 days 00:05:00,3430.65,300,41.1678
+Waterfall Station - Sutherland Station,SCO,Inbound,0 days 00:10:00,14166.39,600,84.99834
+Jannali Station - Oatley Station,SCO,Inbound,0 days 00:06:00,4482.36,360,44.8236
+Oatley Station - Mortdale Station,SCO,Inbound,0 days 00:02:00,1121.68,120,33.6504
+North Wollongong Station - Thirroul Station,SCO,Inbound,0 days 00:09:00,11081.9,540,73.87933333
+Thirroul Station - Helensburgh Station,SCO,Inbound,0 days 00:24:00,23842.24,1440,59.6056
+Helensburgh Station - Sutherland Station,SCO,Inbound,0 days 00:19:00,21784.32,1140,68.79258947
+Sutherland Station - Hurstville Station,SCO,Inbound,0 days 00:11:00,9812.18,660,53.52098182
+Hurstville Station - Oatley Station,T4,Outbound,0 days 00:04:00,3399.97,240,50.99955
+Oatley Station - Como Station,T4,Outbound,0 days 00:03:00,3054.44,180,61.0888
+Como Station - Jannali Station,T4,Outbound,0 days 00:03:00,1431.59,180,28.6318
+Jannali Station - Sutherland Station,T4,Outbound,0 days 00:04:00,1929.32,240,28.9398
+Sutherland Station - Loftus Station,T4,Outbound,0 days 00:02:00,1641.75,120,49.2525
+Loftus Station - Engadine Station,T4,Outbound,0 days 00:05:00,4482.38,300,53.78856
+Engadine Station - Heathcote Station,T4,Outbound,0 days 00:03:00,2382.33,180,47.6466
+Heathcote Station - Waterfall Station,T4,Outbound,0 days 00:05:00,5652.24,300,67.82688
+Wollongong Station - Coniston Station,SCO,Outbound,0 days 00:02:00,1240.93,120,37.2279
+Coniston Station - Lysaghts Station,SCO,Outbound,0 days 00:03:00,2079.2,180,41.584
+Lysaghts Station - Cringila Station,SCO,Outbound,0 days 00:02:00,1430.3,120,42.909
+Cringila Station - Port Kembla North Station,SCO,Outbound,0 days 00:02:00,1053.32,120,31.5996
+Port Kembla North Station - Port Kembla Station,SCO,Outbound,0 days 00:03:00,1592.06,180,31.8412
+Redfern Station - Petersham Station,T2,Outbound,0 days 00:06:00,4212.07,360,42.1207
+Sutherland Station - Mortdale Station,T4,Inbound,0 days 00:07:00,7529.22,420,64.53617143
+Hurstville Station - Allawah Station,T4,Inbound,0 days 00:02:00,1112.7,120,33.381
+Allawah Station - Carlton Station,T4,Outbound,0 days 00:02:00,956.08,120,28.6824
+Carlton Station - Kogarah Station,T4,Inbound,0 days 00:02:00,1059.08,120,31.7724
+Kogarah Station - Rockdale Station,T4,Inbound,0 days 00:02:00,1246.52,120,37.3956
+Rockdale Station - Banksia Station,T4,Inbound,0 days 00:02:00,855.11,120,25.6533
+Banksia Station - Arncliffe Station,T4,Inbound,0 days 00:02:00,1149.53,120,34.4859
+Arncliffe Station - Wolli Creek Station,T4,Inbound,0 days 00:03:00,1135.51,180,22.7102
+Wolli Creek Station - Tempe Station,T4,Inbound,0 days 00:01:00,512.52,60,30.7512
+Tempe Station - Sydenham Station,T4,Inbound,0 days 00:03:00,1484.93,180,29.6986
+Sefton Station - Regents Park Station,T3,Inbound,0 days 00:03:00,1294.57,180,25.8914
+Kiama Station - Bombo Station,SCO,Inbound,0 days 00:03:00,1616.78,180,32.3356
+Bombo Station - Minnamurra Station,SCO,Inbound,0 days 00:04:00,4157.17,240,62.35755
+Minnamurra Station - Shellharbour Junction Station,SCO,Inbound,0 days 00:06:00,4436.01,360,44.3601
+Shellharbour Junction Station - Oak Flats Station,SCO,Inbound,0 days 00:04:00,3436.21,240,51.54315
+Oak Flats Station - Albion Park Station,SCO,Inbound,0 days 00:03:00,2243.67,180,44.8734
+Albion Park Station - Dapto Station,SCO,Inbound,0 days 00:07:00,8284.54,420,71.01034286
+Dapto Station - Unanderra Station,SCO,Inbound,0 days 00:06:00,6738.38,360,67.3838
+Unanderra Station - Coniston Station,SCO,Inbound,0 days 00:05:00,4166.6,300,49.9992
+Austinmer Station - Helensburgh Station,SCO,Inbound,0 days 00:24:00,22246.35,1440,55.615875
+Sydenham Station - Wolli Creek Station,T4,Outbound,0 days 00:03:00,1997.59,180,39.9518
+Wolli Creek Station - Rockdale Station,T4,Outbound,0 days 00:04:00,3141.22,240,47.1183
+Kogarah Station - Hurstville Station,T4,Outbound,0 days 00:04:00,3139.42,240,47.0913
+Hurstville Station - Penshurst Station,T4,Outbound,0 days 00:02:00,1338.4,120,40.152
+Penshurst Station - Mortdale Station,T4,Outbound,0 days 00:02:00,936.79,120,28.1037
+Mortdale Station - Sutherland Station,T4,Outbound,0 days 00:09:00,7537.57,540,50.25046667
+Coniston Station - Unanderra Station,SCO,Outbound,0 days 00:06:00,4166.32,360,41.6632
+Unanderra Station - Dapto Station,SCO,Outbound,0 days 00:05:00,6738.42,300,80.86104
+Dapto Station - Albion Park Station,SCO,Outbound,0 days 00:15:00,8320.86,900,33.28344
+Albion Park Station - Oak Flats Station,SCO,Outbound,0 days 00:03:00,2206.2,180,44.124
+Oak Flats Station - Shellharbour Junction Station,SCO,Outbound,0 days 00:04:00,3435.27,240,51.52905
+Shellharbour Junction Station - Minnamurra Station,SCO,Outbound,0 days 00:05:00,4437.2,300,53.2464
+Minnamurra Station - Bombo Station,SCO,Outbound,0 days 00:05:00,4157.17,300,49.88604
+Bombo Station - Kiama Station,SCO,Outbound,0 days 00:03:00,1620.36,180,32.4072
+Helensburgh Station - Austinmer Station,SCO,Outbound,0 days 00:23:00,22239.67,1380,58.01653043
+Regents Park Station - Sefton Station,T3,Outbound,0 days 00:02:00,1299.34,120,38.9802
+Chester Hill Station - Cabramatta Station,T3,Outbound,0 days 00:06:00,6180.52,360,61.8052
+Merrylands Station - Harris Park Station,T5,Inbound,0 days 00:04:00,2206.51,240,33.09765
+Harris Park Station - Merrylands Station,T5,Outbound,0 days 00:04:00,2209,240,33.135
+Hurstville Station - Kogarah Station,T4,Inbound,0 days 00:04:00,3127.86,240,46.9179
+Rockdale Station - Wolli Creek Station,T4,Inbound,0 days 00:04:00,3140.15,240,47.10225
+Oatley Station - Jannali Station,T4,Outbound,0 days 00:05:00,4486.03,300,53.83236
+Sutherland Station - Kirrawee Station,T4,Outbound,0 days 00:03:00,2029.86,180,40.5972
+Kirrawee Station - Gymea Station,T4,Outbound,0 days 00:02:00,1275.53,120,38.2659
+Gymea Station - Miranda Station,T4,Outbound,0 days 00:02:00,1554.8,120,46.644
+Miranda Station - Caringbah Station,T4,Outbound,0 days 00:03:00,1954.66,180,39.0932
+Caringbah Station - Woolooware Station,T4,Outbound,0 days 00:03:00,2126.93,180,42.5386
+Woolooware Station - Cronulla Station,T4,Outbound,0 days 00:02:00,1217.82,120,36.5346
+Cronulla Station - Woolooware Station,T4,Inbound,0 days 00:02:00,1211.42,120,36.3426
+Woolooware Station - Caringbah Station,T4,Inbound,0 days 00:03:00,2122.32,180,42.4464
+Caringbah Station - Miranda Station,T4,Inbound,0 days 00:02:00,1956.12,120,58.6836
+Miranda Station - Gymea Station,T4,Inbound,0 days 00:03:00,1554.56,180,31.0912
+Gymea Station - Kirrawee Station,T4,Inbound,0 days 00:02:00,1273.73,120,38.2119
+Kirrawee Station - Sutherland Station,T4,Inbound,0 days 00:04:00,2045.46,240,30.6819
+Jannali Station - Como Station,T4,Inbound,0 days 00:03:00,1428.22,180,28.5644
+Como Station - Oatley Station,T4,Inbound,0 days 00:04:00,3054.14,240,45.8121
+Mortdale Station - Oatley Station,T4,Outbound,0 days 00:02:00,1123.22,120,33.6966
+Penshurst Station - Oatley Station,T4,Outbound,0 days 00:03:00,2060.02,180,41.2004
+Mortdale Station - Jannali Station,T4,Outbound,0 days 00:06:00,5609.25,360,56.0925
+Mortdale Station - Como Station,T4,Outbound,0 days 00:04:00,4177.66,240,62.6649
+Stanmore Station - Ashfield Station,T2,Inbound,0 days 00:05:00,3703.56,300,44.44272
+Kiama Station - Gerringong Station,SCO,Outbound,0 days 00:08:00,9332.17,480,69.991275
+Gerringong Station - Berry Station,SCO,Outbound,0 days 00:09:00,12332.23,540,82.21486667
+Berry Station - Bomaderry Station,SCO,Outbound,0 days 00:10:00,12495.05,600,74.9703
+Bomaderry Station - Berry Station,SCO,Inbound,0 days 00:09:00,12495.05,540,83.30033333
+Berry Station - Gerringong Station,SCO,Inbound,0 days 00:09:00,12332.23,540,82.21486667
+Gerringong Station - Kiama Station,SCO,Inbound,0 days 00:09:00,9332.17,540,62.21446667
+Lidcombe Station - Olympic Park Station,T7,Outbound,0 days 00:05:00,3320.98,300,39.85176
+Olympic Park Station - Lidcombe Station,T7,Inbound,0 days 00:06:00,7042.14,360,70.4214
+Woy Woy Station - Asquith Station,CCN,Inbound,0 days 00:33:00,36921.48,1980,67.12996364
+Strathfield Station - Woy Woy Station,CCN,Outbound,0 days 00:59:00,60803.54,3540,61.83410847
+Moss Vale Station - Burradoo Station,SHL,Inbound,0 days 00:05:00,6813.8,300,81.7656
+Burradoo Station - Bowral Station,SHL,Inbound,0 days 00:03:00,2528.94,180,50.5788
+Bowral Station - Mittagong Station,SHL,Inbound,0 days 00:04:00,4840.46,240,72.6069
+Mittagong Station - Yerrinbool Station,SHL,Inbound,0 days 00:12:00,15196.31,720,75.98155
+Yerrinbool Station - Bargo Station,SHL,Inbound,0 days 00:11:00,13478.03,660,73.51652727
+Bargo Station - Tahmoor Station,SHL,Inbound,0 days 00:07:00,8375.84,420,71.79291429
+Tahmoor Station - Picton Station,SHL,Inbound,0 days 00:09:00,9610.67,540,64.07113333
+Picton Station - Douglas Park Station,SHL,Inbound,0 days 00:10:00,11949.52,600,71.69712
+Douglas Park Station - Menangle Station,SHL,Inbound,0 days 00:06:00,7948.03,360,79.4803
+Menangle Station - Menangle Park Station,SHL,Inbound,0 days 00:03:00,2471.78,180,49.4356
+Menangle Park Station - Macarthur Station,SHL,Inbound,0 days 00:07:00,6340.12,420,54.34388571
+Moss Vale Station - Exeter Station,SHL,Outbound,0 days 00:08:00,10166.98,480,76.25235
+Exeter Station - Bundanoon Station,SHL,Outbound,0 days 00:05:00,6367.71,300,76.41252
+Bundanoon Station - Penrose Station,SHL,Outbound,0 days 00:07:00,9161.43,420,78.52654286
+Penrose Station - Wingello Station,SHL,Outbound,0 days 00:05:00,5759.38,300,69.11256
+Wingello Station - Tallong Station,SHL,Outbound,0 days 00:06:00,8264.28,360,82.6428
+Tallong Station - Marulan Station,SHL,Outbound,0 days 00:06:00,7534.36,360,75.3436
+Marulan Station - Goulburn Station,SHL,Outbound,0 days 00:20:00,31900.99,1200,95.70297
+Macarthur Station - Menangle Park Station,SHL,Outbound,0 days 00:05:00,6320.16,300,75.84192
+Menangle Park Station - Menangle Station,SHL,Outbound,0 days 00:03:00,2482.28,180,49.6456
+Menangle Station - Douglas Park Station,SHL,Outbound,0 days 00:07:00,7951.14,420,68.15262857
+Douglas Park Station - Picton Station,SHL,Outbound,0 days 00:09:00,11943.45,540,79.623
+Picton Station - Tahmoor Station,SHL,Outbound,0 days 00:09:00,9610.65,540,64.071
+Tahmoor Station - Bargo Station,SHL,Outbound,0 days 00:07:00,8371.14,420,71.75262857
+Bargo Station - Yerrinbool Station,SHL,Outbound,0 days 00:11:00,13484.08,660,73.54952727
+Yerrinbool Station - Mittagong Station,SHL,Outbound,0 days 00:13:00,15200.83,780,70.15767692
+Mittagong Station - Bowral Station,SHL,Outbound,0 days 00:05:00,4815.23,300,57.78276
+Bowral Station - Burradoo Station,SHL,Outbound,0 days 00:03:00,2552.3,180,51.046
+Burradoo Station - Moss Vale Station,SHL,Outbound,0 days 00:05:00,6827.48,300,81.92976
+Goulburn Station - Marulan Station,SHL,Inbound,0 days 00:18:00,31956.32,1080,106.5210667
+Marulan Station - Tallong Station,SHL,Inbound,0 days 00:06:00,7480.89,360,74.8089
+Tallong Station - Wingello Station,SHL,Inbound,0 days 00:07:00,8278.03,420,70.95454286
+Wingello Station - Penrose Station,SHL,Inbound,0 days 00:05:00,5761.15,300,69.1338
+Penrose Station - Bundanoon Station,SHL,Inbound,0 days 00:07:00,9187.51,420,78.75008571
+Bundanoon Station - Exeter Station,SHL,Inbound,0 days 00:06:00,6359.34,360,63.5934
+Exeter Station - Moss Vale Station,SHL,Inbound,0 days 00:08:00,10170.43,480,76.278225
+Moss Vale Station - Bowral Station,SHL,Inbound,0 days 00:08:00,9342.73,480,70.070475
+Mittagong Station - Tahmoor Station,SHL,Inbound,0 days 00:27:00,37050.17,1620,82.33371111
+Picton Station - Macarthur Station,SHL,Inbound,0 days 00:20:00,28704.05,1200,86.11215
+Campbelltown Station - Glenfield Station,SHL,Inbound,0 days 00:10:00,12711.66,600,76.26996
+Glenfield Station - Central Station,SHL,Inbound,0 days 00:39:00,32926.04,2340,50.65544615
+Central Station - Glenfield Station,SHL,Outbound,0 days 00:31:00,32913.61,1860,63.70376129
+Glenfield Station - Campbelltown Station,SHL,Outbound,0 days 00:15:00,12717.74,900,50.87096
+Hamilton Station - Waratah Station,HUN,Outbound,0 days 00:04:00,2429.21,240,36.43815
+Waratah Station - Warabrook Station,HUN,Outbound,0 days 00:04:00,2621.5,240,39.3225
+Warabrook Station - Sandgate Station,HUN,Outbound,0 days 00:02:00,1798.82,120,53.9646
+Sandgate Station - Hexham Station,HUN,Outbound,0 days 00:05:00,5127.53,300,61.53036
+Hexham Station - Tarro Station,HUN,Outbound,0 days 00:03:00,2642.41,180,52.8482
+Tarro Station - Beresfield Station,HUN,Outbound,0 days 00:02:00,1530.79,120,45.9237
+Beresfield Station - Thornton Station,HUN,Outbound,0 days 00:03:00,2434.5,180,48.69
+Thornton Station - Metford Station,HUN,Outbound,0 days 00:03:00,2895.82,180,57.9164
+Metford Station - Victoria Street Station,HUN,Outbound,0 days 00:03:00,2844.5,180,56.89
+Victoria Street Station - East Maitland Station,HUN,Outbound,0 days 00:02:00,934,120,28.02
+East Maitland Station - High Street Station,HUN,Outbound,0 days 00:03:00,2492.59,180,49.8518
+High Street Station - Maitland Station,HUN,Outbound,0 days 00:04:00,1189.32,240,17.8398
+Maitland Station - Lochinvar Station,HUN,Outbound,0 days 00:08:00,9971.69,480,74.787675
+Lochinvar Station - Greta Station,HUN,Outbound,0 days 00:06:00,8254.34,360,82.5434
+Greta Station - Branxton Station,HUN,Outbound,0 days 00:04:00,4750.34,240,71.2551
+Branxton Station - Singleton Station,HUN,Outbound,0 days 00:14:00,23318.41,840,99.93604286
+Singleton Station - Muswellbrook Station,HUN,Outbound,0 days 00:32:00,49512.43,1920,92.83580625
+Muswellbrook Station - Aberdeen Station,HUN,Outbound,0 days 00:09:00,12007.53,540,80.0502
+Aberdeen Station - Scone Station,HUN,Outbound,0 days 00:10:00,13940.3,600,83.6418
+Scone Station - Aberdeen Station,HUN,Inbound,0 days 00:08:00,13940.3,480,104.55225
+Aberdeen Station - Muswellbrook Station,HUN,Inbound,0 days 00:09:00,12007.53,540,80.0502
+Muswellbrook Station - Singleton Station,HUN,Inbound,0 days 00:31:00,49511.18,1860,95.82809032
+Singleton Station - Branxton Station,HUN,Inbound,0 days 00:15:00,23315.83,900,93.26332
+Branxton Station - Greta Station,HUN,Inbound,0 days 00:04:00,4789.87,240,71.84805
+Greta Station - Lochinvar Station,HUN,Inbound,0 days 00:06:00,8247.81,360,82.4781
+Lochinvar Station - Maitland Station,HUN,Inbound,0 days 00:08:00,9972.69,480,74.795175
+Maitland Station - Victoria Street Station,HUN,Inbound,0 days 00:05:00,4616.05,300,55.3926
+Victoria Street Station - Metford Station,HUN,Inbound,0 days 00:03:00,2843.92,180,56.8784
+Metford Station - Thornton Station,HUN,Inbound,0 days 00:03:00,2896.69,180,57.9338
+Thornton Station - Beresfield Station,HUN,Inbound,0 days 00:03:00,2436.49,180,48.7298
+Beresfield Station - Warabrook Station,HUN,Inbound,0 days 00:08:00,11100.6,480,83.2545
+Warabrook Station - Waratah Station,HUN,Inbound,0 days 00:03:00,2620.01,180,52.4002
+Waratah Station - Hamilton Station,HUN,Inbound,0 days 00:03:00,2405.61,180,48.1122
+Warabrook Station - Beresfield Station,HUN,Outbound,0 days 00:08:00,11099.55,480,83.246625
+Victoria Street Station - Maitland Station,HUN,Outbound,0 days 00:05:00,4615.91,300,55.39092
+Telarah Station - Maitland Station,HUN,Inbound,0 days 00:02:00,2270.59,120,68.1177
+Maitland Station - High Street Station,HUN,Inbound,0 days 00:02:00,1185.85,120,35.5755
+High Street Station - East Maitland Station,HUN,Inbound,0 days 00:03:00,2510.02,180,50.2004
+East Maitland Station - Victoria Street Station,HUN,Inbound,0 days 00:02:00,919.09,120,27.5727
+Beresfield Station - Tarro Station,HUN,Inbound,0 days 00:02:00,1530.04,120,45.9012
+Tarro Station - Hexham Station,HUN,Inbound,0 days 00:03:00,2643.94,180,52.8788
+Hexham Station - Sandgate Station,HUN,Inbound,0 days 00:04:00,5125.6,240,76.884
+Sandgate Station - Warabrook Station,HUN,Inbound,0 days 00:03:00,1801.02,180,36.0204
+Maitland Station - Telarah Station,HUN,Outbound,0 days 00:04:00,2275.18,240,34.1277
+Telarah Station - Mindaribba Station,HUN,Outbound,0 days 00:08:00,8729.33,480,65.469975
+Mindaribba Station - Paterson Station,HUN,Outbound,0 days 00:09:00,9696.15,540,64.641
+Paterson Station - Martins Creek Station,HUN,Outbound,0 days 00:04:00,5325,240,79.875
+Martins Creek Station - Hilldale Station,HUN,Outbound,0 days 00:07:00,7860.8,420,67.37828571
+Hilldale Station - Wallarobba Station,HUN,Outbound,0 days 00:05:00,5255.17,300,63.06204
+Wallarobba Station - Wirragulla Station,HUN,Outbound,0 days 00:07:00,6156.33,420,52.76854286
+Wirragulla Station - Dungog Station,HUN,Outbound,0 days 00:07:00,7360.06,420,63.08622857
+Dungog Station - Wirragulla Station,HUN,Inbound,0 days 00:05:00,7360.06,300,88.32072
+Wirragulla Station - Wallarobba Station,HUN,Inbound,0 days 00:06:00,6156.33,360,61.5633
+Wallarobba Station - Hilldale Station,HUN,Inbound,0 days 00:06:00,5255.17,360,52.5517
+Hilldale Station - Martins Creek Station,HUN,Inbound,0 days 00:06:00,7860.8,360,78.608
+Martins Creek Station - Paterson Station,HUN,Inbound,0 days 00:05:00,5325.01,300,63.90012
+Paterson Station - Mindaribba Station,HUN,Inbound,0 days 00:08:00,9696.14,480,72.72105
+Mindaribba Station - Telarah Station,HUN,Inbound,0 days 00:07:00,8729.33,420,74.82282857
+Paterson Station - Telarah Station,HUN,Inbound,0 days 00:25:00,18424.37,1500,44.218488
+Mount Victoria Station - Blackheath Station,BMT,Inbound,0 days 00:07:00,6074.2,420,52.06457143
+Blackheath Station - Medlow Bath Station,BMT,Inbound,0 days 00:06:00,4829.99,360,48.2999
+Medlow Bath Station - Katoomba Station,BMT,Inbound,0 days 00:06:00,5895.98,360,58.9598
+Katoomba Station - Leura Station,BMT,Inbound,0 days 00:04:00,2373.33,240,35.59995
+Leura Station - Wentworth Falls Station,BMT,Inbound,0 days 00:06:00,4882.35,360,48.8235
+Wentworth Falls Station - Bullaburra Station,BMT,Inbound,0 days 00:06:00,4983.53,360,49.8353
+Bullaburra Station - Lawson Station,BMT,Inbound,0 days 00:03:00,1624.05,180,32.481
+Lawson Station - Hazelbrook Station,BMT,Inbound,0 days 00:03:00,2508.69,180,50.1738
+Hazelbrook Station - Woodford Station,BMT,Inbound,0 days 00:04:00,3116.6,240,46.749
+Woodford Station - Linden Station,BMT,Inbound,0 days 00:05:00,3550.69,300,42.60828
+Linden Station - Faulconbridge Station,BMT,Inbound,0 days 00:05:00,3846.2,300,46.1544
+Faulconbridge Station - Springwood Station,BMT,Inbound,0 days 00:04:00,3244.12,240,48.6618
+Springwood Station - Valley Heights Station,BMT,Inbound,0 days 00:03:00,2301.14,180,46.0228
+Valley Heights Station - Warrimoo Station,BMT,Inbound,0 days 00:04:00,3197.57,240,47.96355
+Warrimoo Station - Blaxland Station,BMT,Inbound,0 days 00:04:00,2776.48,240,41.6472
+Blaxland Station - Glenbrook Station,BMT,Inbound,0 days 00:05:00,4395.56,300,52.74672
+Glenbrook Station - Lapstone Station,BMT,Inbound,0 days 00:04:00,3472.05,240,52.08075
+Lapstone Station - Emu Plains Station,BMT,Inbound,0 days 00:06:00,6079.71,360,60.7971
+Penrith Station - Blacktown Station,BMT,Inbound,0 days 00:16:00,20142.19,960,75.5332125
+Blacktown Station - Penrith Station,BMT,Outbound,0 days 00:17:00,20142.38,1020,71.09075294
+Emu Plains Station - Lapstone Station,BMT,Outbound,0 days 00:06:00,6077.47,360,60.7747
+Lapstone Station - Glenbrook Station,BMT,Outbound,0 days 00:04:00,3475.11,240,52.12665
+Glenbrook Station - Blaxland Station,BMT,Outbound,0 days 00:05:00,4398.17,300,52.77804
+Blaxland Station - Warrimoo Station,BMT,Outbound,0 days 00:04:00,2772.98,240,41.5947
+Warrimoo Station - Valley Heights Station,BMT,Outbound,0 days 00:04:00,3198.01,240,47.97015
+Valley Heights Station - Springwood Station,BMT,Outbound,0 days 00:04:00,2284.84,240,34.2726
+Springwood Station - Faulconbridge Station,BMT,Outbound,0 days 00:04:00,3244.32,240,48.6648
+Faulconbridge Station - Linden Station,BMT,Outbound,0 days 00:05:00,3845.51,300,46.14612
+Linden Station - Woodford Station,BMT,Outbound,0 days 00:05:00,3548.17,300,42.57804
+Woodford Station - Hazelbrook Station,BMT,Outbound,0 days 00:04:00,3124.82,240,46.8723
+Hazelbrook Station - Lawson Station,BMT,Outbound,0 days 00:04:00,2502.64,240,37.5396
+Lawson Station - Bullaburra Station,BMT,Outbound,0 days 00:02:00,1618.4,120,48.552
+Bullaburra Station - Wentworth Falls Station,BMT,Outbound,0 days 00:06:00,5000.37,360,50.0037
+Wentworth Falls Station - Leura Station,BMT,Outbound,0 days 00:06:00,4880.7,360,48.807
+Leura Station - Katoomba Station,BMT,Outbound,0 days 00:04:00,2383.97,240,35.75955
+Katoomba Station - Medlow Bath Station,BMT,Outbound,0 days 00:07:00,5905.26,420,50.61651429
+Medlow Bath Station - Blackheath Station,BMT,Outbound,0 days 00:06:00,4830.64,360,48.3064
+Blackheath Station - Mount Victoria Station,BMT,Outbound,0 days 00:07:00,6075.69,420,52.07734286
+Wentworth Falls Station - Hazelbrook Station,BMT,Inbound,0 days 00:10:00,9116.27,600,54.69762
+Hazelbrook Station - Springwood Station,BMT,Inbound,0 days 00:15:00,13757.61,900,55.03044
+Springwood Station - Blaxland Station,BMT,Inbound,0 days 00:09:00,8275.19,540,55.16793333
+Glenbrook Station - Emu Plains Station,BMT,Inbound,0 days 00:10:00,9551.76,600,57.31056
+Central Station - Parramatta Station,BMT,Outbound,0 days 00:25:00,23162.91,1500,55.590984
+Westmead Station - Penrith Station,BMT,Outbound,0 days 00:20:00,29882.24,1200,89.64672
+Penrith Station - Springwood Station,BMT,Outbound,0 days 00:24:00,24628.73,1440,61.571825
+Springwood Station - Katoomba Station,BMT,Outbound,0 days 00:32:00,30148.9,1920,56.5291875
+Katoomba Station - Mount Victoria Station,BMT,Outbound,0 days 00:18:00,16811.6,1080,56.03866667
+Mount Victoria Station - Katoomba Station,BMT,Inbound,0 days 00:17:00,16800.17,1020,59.29471765
+Katoomba Station - Springwood Station,BMT,Inbound,0 days 00:32:00,30129.56,1920,56.492925
+Springwood Station - Penrith Station,BMT,Inbound,0 days 00:24:00,24648.48,1440,61.6212
+Penrith Station - Westmead Station,BMT,Inbound,0 days 00:22:00,29851.74,1320,81.41383636
+Parramatta Station - Central Station,BMT,Inbound,0 days 00:25:00,23494.46,1500,56.386704
+Emu Plains Station - Glenbrook Station,BMT,Outbound,0 days 00:09:00,9552.58,540,63.68386667
+Blaxland Station - Springwood Station,BMT,Outbound,0 days 00:09:00,8255.83,540,55.03886667
+Springwood Station - Hazelbrook Station,BMT,Outbound,0 days 00:16:00,13762.82,960,51.610575
+Hazelbrook Station - Wentworth Falls Station,BMT,Outbound,0 days 00:10:00,9121.41,600,54.72846
+Lithgow Station - Rydal Station,BMT,Outbound,0 days 00:20:00,25557.3,1200,76.6719
+Rydal Station - Tarana Station,BMT,Outbound,0 days 00:16:00,16900.42,960,63.376575
+Tarana Station - Bathurst Station,BMT,Outbound,0 days 00:34:00,41632.65,2040,73.46938235
+Bathurst Station - Tarana Station,BMT,Inbound,0 days 00:31:00,41632.65,1860,80.57932258
+Tarana Station - Rydal Station,BMT,Inbound,0 days 00:16:00,16900.42,960,63.376575
+Rydal Station - Lithgow Station,BMT,Inbound,0 days 00:21:00,25557.17,1260,73.02048571
+Lithgow Station - Mount Victoria Station,BMT,Inbound,0 days 00:38:00,29087.21,2280,45.92717368
+Mount Victoria Station - Lithgow Station,BMT,Outbound,0 days 00:25:00,29085.91,1500,69.806184
+Lithgow Station - Zig Zag Station,BMT,Inbound,,,360,
+Zig Zag Station - Bell Station,BMT,Inbound,,,780,
+Bell Station - Mount Victoria Station,BMT,Inbound,,,540,
+Dapto Station - Kembla Grange Station,SCO,Inbound,,,840,
+Kembla Grange Station - Unanderra Station,SCO,Inbound,,,420,
+Towradgi Station - Cringila Station,SCO,Outbound,,,840,
+Cringila Station - Bellambi Station,SCO,Inbound,,,1080,
+Towradgi Station - Cringila Station,SCO,Outbound,,,840,
+Cringila Station - Bellambi Station,SCO,Inbound,,,1080,
+Turrella Station - Sydenham Station,T8,Inbound,,,420,
+St Peters Station - Central Station,T8,Inbound,,,480,
+Blacktown Station - Westmead Station,BMT,Inbound,,,540,
+Westmead Station - Blacktown Station,BMT,Outbound,,,540,

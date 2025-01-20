@@ -1,0 +1,667 @@
+Mapper,route_short_name,service_line,Line_ID,station,sequence,station_id,Latitude,Longitude,stop_id,stop_name
+HUN.HUN-Dungog[0],HUN,HUN-Dungog,HUN_HUN-Dungog,Dungog,0,242010,-32.40229,151.75954,242010,Dungog Station
+HUN.HUN-Dungog[1],HUN,HUN-Dungog,HUN_HUN-Dungog,Wirragulla,1,242030,-32.461774,151.743457,242030,Wirragulla Station
+HUN.HUN-Dungog[2],HUN,HUN-Dungog,HUN_HUN-Dungog,Wallarobba,2,242020,-32.49614,151.69568,242020,Wallarobba Station
+HUN.HUN-Dungog[3],HUN,HUN-Dungog,HUN_HUN-Dungog,Hilldale,3,242040,-32.504504,151.649768,242040,Hilldale Station
+HUN.HUN-Dungog[4],HUN,HUN-Dungog,HUN_HUN-Dungog,Martins Creek,4,242050,-32.558687,151.618509,242050,Martins Creek Station
+HUN.HUN-Dungog[5],HUN,HUN-Dungog,HUN_HUN-Dungog,Paterson,5,242110,-32.602401,151.614637,242110,Paterson Station
+HUN.HUN-Dungog[6],HUN,HUN-Dungog,HUN_HUN-Dungog,Mindaribba,6,232050,-32.669323,151.584314,232050,Mindaribba Station
+HUN.HUN-Dungog[7],HUN,HUN-Dungog,HUN_HUN-Dungog,Telarah,7,232030,-32.72391,151.539635,232030,Telarah Station
+HUN.HUN-Dungog[8],HUN,HUN-Dungog,HUN_HUN-Dungog,Maitland,8,232020,-32.738035,151.5521,232020,Maitland Station
+HUN.HUN-Dungog[9],HUN,HUN-Dungog,HUN_HUN-Dungog,High Street,9,232010,-32.741449,151.563689,232010,High Street Station
+HUN.HUN-Dungog[10],HUN,HUN-Dungog,HUN_HUN-Dungog,East Maitland,10,232330,-32.744875,151.587421,232330,East Maitland Station
+HUN.HUN-Dungog[11],HUN,HUN-Dungog,HUN_HUN-Dungog,Victoria Street,11,232320,-32.750958,151.593826,232320,Victoria Street Station
+HUN.HUN-Dungog[12],HUN,HUN-Dungog,HUN_HUN-Dungog,Metford,12,232310,-32.764876,151.617868,232310,Metford Station
+HUN.HUN-Dungog[13],HUN,HUN-Dungog,HUN_HUN-Dungog,Thornton,13,232240,-32.783595,151.639831,232240,Thornton Station
+HUN.HUN-Dungog[14],HUN,HUN-Dungog,HUN_HUN-Dungog,Beresfield,14,232230,-32.798946,151.657863,232230,Beresfield Station
+HUN.HUN-Dungog[15],HUN,HUN-Dungog,HUN_HUN-Dungog,Tarro,15,232220,-32.809309,151.669942,232220,Tarro Station
+HUN.HUN-Dungog[16],HUN,HUN-Dungog,HUN_HUN-Dungog,Hexham,16,232210,-32.82947,151.684417,232210,Hexham Station
+HUN.HUN-Dungog[17],HUN,HUN-Dungog,HUN_HUN-Dungog,Sandgate,17,230430,-32.871897,151.702605,230430,Sandgate Station
+HUN.HUN-Dungog[18],HUN,HUN-Dungog,HUN_HUN-Dungog,Warabrook,18,230420,-32.887055,151.70989,230420,Warabrook Station
+HUN.HUN-Dungog[19],HUN,HUN-Dungog,HUN_HUN-Dungog,Waratah,19,230410,-32.902766,151.731671,230410,Waratah Station
+HUN.HUN-Dungog[20],HUN,HUN-Dungog,HUN_HUN-Dungog,Hamilton,20,230310,-32.918713,151.748872,230310,Hamilton Station
+HUN.HUN-Dungog[21],HUN,HUN-Dungog,HUN_HUN-Dungog,Newcastle Interchange,21,229310,-32.924037,151.759079,229310,Newcastle Interchange
+HUN.HUN-Scone[0],HUN,HUN-Scone,HUN_HUN-Scone,Scone,0,233710,-32.046941,150.866902,233710,Scone Station
+HUN.HUN-Scone[1],HUN,HUN-Scone,HUN_HUN-Scone,Aberdeen,1,233610,-32.167104,150.892052,233610,Aberdeen Station
+HUN.HUN-Scone[2],HUN,HUN-Scone,HUN_HUN-Scone,Muswellbrook,2,233310,-32.267493,150.89032,233310,Muswellbrook Station
+HUN.HUN-Scone[3],HUN,HUN-Scone,HUN_HUN-Scone,Singleton,3,233010,-32.57177,151.165171,233010,Singleton Station
+HUN.HUN-Scone[4],HUN,HUN-Scone,HUN_HUN-Scone,Branxton,4,233510,-32.662252,151.345645,233510,Branxton Station
+HUN.HUN-Scone[5],HUN,HUN-Scone,HUN_HUN-Scone,Greta,5,233410,-32.686622,151.38409,233410,Greta Station
+HUN.HUN-Scone[6],HUN,HUN-Scone,HUN_HUN-Scone,Lochinvar,6,232110,-32.72072,151.449087,232110,Lochinvar Station
+HUN.HUN-Scone[7],HUN,HUN-Scone,HUN_HUN-Scone,Maitland,7,232020,-32.738035,151.5521,232020,Maitland Station
+HUN.HUN-Scone[8],HUN,HUN-Scone,HUN_HUN-Scone,High Street,8,232010,-32.741449,151.563689,232010,High Street Station
+HUN.HUN-Scone[9],HUN,HUN-Scone,HUN_HUN-Scone,East Maitland,9,232330,-32.744875,151.587421,232330,East Maitland Station
+HUN.HUN-Scone[10],HUN,HUN-Scone,HUN_HUN-Scone,Victoria Street,10,232320,-32.750958,151.593826,232320,Victoria Street Station
+HUN.HUN-Scone[11],HUN,HUN-Scone,HUN_HUN-Scone,Metford,11,232310,-32.764876,151.617868,232310,Metford Station
+HUN.HUN-Scone[12],HUN,HUN-Scone,HUN_HUN-Scone,Thornton,12,232240,-32.783595,151.639831,232240,Thornton Station
+HUN.HUN-Scone[13],HUN,HUN-Scone,HUN_HUN-Scone,Beresfield,13,232230,-32.798946,151.657863,232230,Beresfield Station
+HUN.HUN-Scone[14],HUN,HUN-Scone,HUN_HUN-Scone,Tarro,14,232220,-32.809309,151.669942,232220,Tarro Station
+HUN.HUN-Scone[15],HUN,HUN-Scone,HUN_HUN-Scone,Hexham,15,232210,-32.82947,151.684417,232210,Hexham Station
+HUN.HUN-Scone[16],HUN,HUN-Scone,HUN_HUN-Scone,Sandgate,16,230430,-32.871897,151.702605,230430,Sandgate Station
+HUN.HUN-Scone[17],HUN,HUN-Scone,HUN_HUN-Scone,Warabrook,17,230420,-32.887055,151.70989,230420,Warabrook Station
+HUN.HUN-Scone[18],HUN,HUN-Scone,HUN_HUN-Scone,Waratah,18,230410,-32.902766,151.731671,230410,Waratah Station
+HUN.HUN-Scone[19],HUN,HUN-Scone,HUN_HUN-Scone,Hamilton,19,230310,-32.918713,151.748872,230310,Hamilton Station
+HUN.HUN-Scone[20],HUN,HUN-Scone,HUN_HUN-Scone,Newcastle Interchange,20,229310,-32.924037,151.759079,229310,Newcastle Interchange
+CCN,CCN,CCN,CCN - Gordon,Newcastle Interchange,0,229310,-32.924037,151.759079,229310,Newcastle Interchange
+CCN,CCN,CCN,CCN - Gordon,Hamilton,1,230310,-32.918713,151.748872,230310,Hamilton Station
+CCN,CCN,CCN,CCN - Gordon,Broadmeadow,2,229210,-32.923017,151.734686,229210,Broadmeadow Station
+CCN,CCN,CCN,CCN - Gordon,Adamstown,3,228920,-32.93373,151.720081,228920,Adamstown Station
+CCN,CCN,CCN,CCN - Gordon,Kotara,4,228910,-32.941396,151.698493,228910,Kotara Station
+CCN,CCN,CCN,CCN - Gordon,Cardiff,5,228520,-32.941824,151.66298,228520,Cardiff Station
+CCN,CCN,CCN,CCN - Gordon,Cockle Creek,6,228430,-32.94271,151.623381,228430,Cockle Creek Station
+CCN,CCN,CCN,CCN - Gordon,Teralba,7,228420,-32.962712,151.603458,228420,Teralba Station
+CCN,CCN,CCN,CCN - Gordon,Booragul,8,228410,-32.971423,151.60469,228410,Booragul Station
+CCN,CCN,CCN,CCN - Gordon,Fassifern,9,228330,-32.985788,151.581251,228330,Fassifern Station
+CCN,CCN,CCN,CCN - Gordon,Awaba,10,228310,-33.01292,151.541635,228310,Awaba Station
+CCN,CCN,CCN,CCN - Gordon,Dora Creek,11,226420,-33.083187,151.501162,226420,Dora Creek Station
+CCN,CCN,CCN,CCN - Gordon,Morisset,12,226410,-33.109246,151.487734,226410,Morisset Station
+CCN,CCN,CCN,CCN - Gordon,Wyee,13,225940,-33.180448,151.48712,225940,Wyee Station
+CCN,CCN,CCN,CCN - Gordon,Warnervale,14,225930,-33.247559,151.448562,225930,Warnervale Station
+CCN,CCN,CCN,CCN - Gordon,Wyong,15,225920,-33.285479,151.425256,225920,Wyong Station
+CCN,CCN,CCN,CCN - Gordon,Tuggerah,16,225910,-33.308086,151.420153,225910,Tuggerah Station
+CCN,CCN,CCN,CCN - Gordon,Ourimbah,17,225810,-33.359604,151.369989,225810,Ourimbah Station
+CCN,CCN,CCN,CCN - Gordon,Lisarow,18,225070,-33.382311,151.369817,225070,Lisarow Station
+CCN,CCN,CCN,CCN - Gordon,Niagara Park,19,225060,-33.383331,151.354282,225060,Niagara Park Station
+CCN,CCN,CCN,CCN - Gordon,Narara,20,2250772,-33.394786,151.344308,2250772,Narara Station
+CCN,CCN,CCN,CCN - Gordon,Gosford,21,225040,-33.423883,151.341711,225040,Gosford Station
+CCN,CCN,CCN,CCN - Gordon,Point Clare,22,225030,-33.44577,151.328556,225030,Point Clare Station
+CCN,CCN,CCN,CCN - Gordon,Tascott,23,225020,-33.451357,151.318056,225020,Tascott Station
+CCN,CCN,CCN,CCN - Gordon,Koolewong,24,225620,-33.466974,151.318655,225620,Koolewong Station
+CCN,CCN,CCN,CCN - Gordon,Woy Woy,25,225610,-33.485112,151.323624,225610,Woy Woy Station
+CCN,CCN,CCN,CCN - Gordon,Wondabyne,26,225010,-33.492135,151.257011,225010,Wondabyne Station
+CCN,CCN,CCN,CCN - Gordon,Hawkesbury River,27,208310,-33.546788,151.22651,208310,Hawkesbury River Station
+CCN,CCN,CCN,CCN - Gordon,Cowan,28,208120,-33.593108,151.171718,208120,Cowan Station
+CCN,CCN,CCN,CCN - Gordon,Berowra,29,208110,-33.623657,151.152971,208110,Berowra Station
+CCN,CCN,CCN,CCN - Gordon,Mount Kuring-Gai,30,208010,-33.653002,151.136822,208010,Mount Kuring-gai Station
+CCN,CCN,CCN,CCN - Gordon,Mount Colah,31,207910,-33.672022,151.114493,207910,Mount Colah Station
+CCN,CCN,CCN,CCN - Gordon,Asquith,32,207730,-33.68877,151.108025,207730,Asquith Station
+CCN,CCN,CCN,CCN - Gordon,Hornsby,33,207720,-33.702801,151.098494,207720,Hornsby Station
+CCN,CCN,CCN,CCN - Gordon,Gordon,39,207210,-33.756009,151.154528,207210,Gordon Station
+CCN,CCN,CCN,CCN - Gordon,Chatswood,43,206710,-33.797134,151.180821,206710,Chatswood Station
+CCN,CCN,CCN,CCN - Gordon,Artarmon,44,206410,-33.808903,151.185294,206410,Artarmon Station
+CCN,CCN,CCN,CCN - Gordon,St Leonards,45,206520,-33.822389,151.194127,206520,St Leonards Station
+CCN,CCN,CCN,CCN - Gordon,Wollstonecraft,46,206510,-33.831795,151.191895,206510,Wollstonecraft Station
+CCN,CCN,CCN,CCN - Gordon,Waverton,47,206020,-33.838245,151.197856,206020,Waverton Station
+CCN,CCN,CCN,CCN - Gordon,North Sydney,48,206010,-33.841209,151.20741,206010,North Sydney Station
+CCN,CCN,CCN,CCN - Gordon,Milsons Point,49,206110,-33.845893,151.211825,206110,Milsons Point Station
+CCN,CCN,CCN,CCN - Gordon,Wynyard,50,200080,-33.865898,151.205789,200080,Wynyard Station
+CCN,CCN,CCN,CCN - Gordon,Town Hall,51,200070,-33.873596,151.206899,200070,Town Hall Station
+CCN,CCN,CCN,CCN - Gordon,Central,52,200060,-33.883882,151.205829,200060,Central Station
+CCN,CCN,CCN,CCN - Strathfield,Newcastle Interchange,0,229310,-32.924037,151.759079,229310,Newcastle Interchange
+CCN,CCN,CCN,CCN - Strathfield,Hamilton,1,230310,-32.918713,151.748872,230310,Hamilton Station
+CCN,CCN,CCN,CCN - Strathfield,Broadmeadow,2,229210,-32.923017,151.734686,229210,Broadmeadow Station
+CCN,CCN,CCN,CCN - Strathfield,Adamstown,3,228920,-32.93373,151.720081,228920,Adamstown Station
+CCN,CCN,CCN,CCN - Strathfield,Kotara,4,228910,-32.941396,151.698493,228910,Kotara Station
+CCN,CCN,CCN,CCN - Strathfield,Cardiff,5,228520,-32.941824,151.66298,228520,Cardiff Station
+CCN,CCN,CCN,CCN - Strathfield,Cockle Creek,6,228430,-32.94271,151.623381,228430,Cockle Creek Station
+CCN,CCN,CCN,CCN - Strathfield,Teralba,7,228420,-32.962712,151.603458,228420,Teralba Station
+CCN,CCN,CCN,CCN - Strathfield,Booragul,8,228410,-32.971423,151.60469,228410,Booragul Station
+CCN,CCN,CCN,CCN - Strathfield,Fassifern,9,228330,-32.985788,151.581251,228330,Fassifern Station
+CCN,CCN,CCN,CCN - Strathfield,Awaba,10,228310,-33.01292,151.541635,228310,Awaba Station
+CCN,CCN,CCN,CCN - Strathfield,Dora Creek,11,226420,-33.083187,151.501162,226420,Dora Creek Station
+CCN,CCN,CCN,CCN - Strathfield,Morisset,12,226410,-33.109246,151.487734,226410,Morisset Station
+CCN,CCN,CCN,CCN - Strathfield,Wyee,13,225940,-33.180448,151.48712,225940,Wyee Station
+CCN,CCN,CCN,CCN - Strathfield,Warnervale,14,225930,-33.247559,151.448562,225930,Warnervale Station
+CCN,CCN,CCN,CCN - Strathfield,Wyong,15,225920,-33.285479,151.425256,225920,Wyong Station
+CCN,CCN,CCN,CCN - Strathfield,Tuggerah,16,225910,-33.308086,151.420153,225910,Tuggerah Station
+CCN,CCN,CCN,CCN - Strathfield,Ourimbah,17,225810,-33.359604,151.369989,225810,Ourimbah Station
+CCN,CCN,CCN,CCN - Strathfield,Lisarow,18,225070,-33.382311,151.369817,225070,Lisarow Station
+CCN,CCN,CCN,CCN - Strathfield,Niagara Park,19,225060,-33.383331,151.354282,225060,Niagara Park Station
+CCN,CCN,CCN,CCN - Strathfield,Narara,20,2250772,-33.394786,151.344308,2250772,Narara Station
+CCN,CCN,CCN,CCN - Strathfield,Gosford,21,225040,-33.423883,151.341711,225040,Gosford Station
+CCN,CCN,CCN,CCN - Strathfield,Point Clare,22,225030,-33.44577,151.328556,225030,Point Clare Station
+CCN,CCN,CCN,CCN - Strathfield,Tascott,23,225020,-33.451357,151.318056,225020,Tascott Station
+CCN,CCN,CCN,CCN - Strathfield,Koolewong,24,225620,-33.466974,151.318655,225620,Koolewong Station
+CCN,CCN,CCN,CCN - Strathfield,Woy Woy,25,225610,-33.485112,151.323624,225610,Woy Woy Station
+CCN,CCN,CCN,CCN - Strathfield,Wondabyne,26,225010,-33.492135,151.257011,225010,Wondabyne Station
+CCN,CCN,CCN,CCN - Strathfield,Hawkesbury River,27,208310,-33.546788,151.22651,208310,Hawkesbury River Station
+CCN,CCN,CCN,CCN - Strathfield,Cowan,28,208120,-33.593108,151.171718,208120,Cowan Station
+CCN,CCN,CCN,CCN - Strathfield,Berowra,29,208110,-33.623657,151.152971,208110,Berowra Station
+CCN,CCN,CCN,CCN - Strathfield,Mount Kuring-Gai,30,208010,-33.653002,151.136822,208010,Mount Kuring-gai Station
+CCN,CCN,CCN,CCN - Strathfield,Mount Colah,31,207910,-33.672022,151.114493,207910,Mount Colah Station
+CCN,CCN,CCN,CCN - Strathfield,Asquith,32,207730,-33.68877,151.108025,207730,Asquith Station
+CCN,CCN,CCN,CCN - Strathfield,Hornsby,33,207720,-33.702801,151.098494,207720,Hornsby Station
+CCN,CCN,CCN,CCN - Strathfield,Epping,39,212110,-33.772841,151.082177,212110,Epping Station
+CCN,CCN,CCN,CCN - Strathfield,Strathfield,47,213510,-33.87181,151.094427,213510,Strathfield Station
+CCN,CCN,CCN,CCN - Strathfield,Redfern,49,201510,-33.89237,151.198485,201510,Redfern Station
+CCN,CCN,CCN,CCN - Strathfield,Central,52,200060,-33.883882,151.205829,200060,Central Station
+T1.North Shore & Gordon[29],T1,North Shore & Gordon,T1_Gordon,Berowra,29,208110,-33.623657,151.152971,208110,Berowra Station
+T1.North Shore & Gordon[30],T1,North Shore & Gordon,T1_Gordon,Mount Kuring-Gai,30,208010,-33.653002,151.136822,208010,Mount Kuring-gai Station
+T1.North Shore & Gordon[31],T1,North Shore & Gordon,T1_Gordon,Mount Colah,31,207910,-33.672022,151.114493,207910,Mount Colah Station
+T1.North Shore & Gordon[32],T1,North Shore & Gordon,T1_Gordon,Asquith,32,207730,-33.68877,151.108025,207730,Asquith Station
+T1.North Shore & Gordon[33],T1,North Shore & Gordon,T1_Gordon,Hornsby,33,207720,-33.702801,151.098494,207720,Hornsby Station
+T1.North Shore & Gordon[34],T1,North Shore & Gordon,T1_Gordon,Waitara,34,207710,-33.709993,151.104341,207710,Waitara Station
+T1.North Shore & Gordon[35],T1,North Shore & Gordon,T1_Gordon,Wahroonga,35,207610,-33.717429,151.116892,207610,Wahroonga Station
+T1.North Shore & Gordon[36],T1,North Shore & Gordon,T1_Gordon,Warrawee,36,207420,-33.724285,151.121757,207420,Warrawee Station
+T1.North Shore & Gordon[37],T1,North Shore & Gordon,T1_Gordon,Turramurra,37,207410,-33.732182,151.128282,207410,Turramurra Station
+T1.North Shore & Gordon[38],T1,North Shore & Gordon,T1_Gordon,Pymble,38,207310,-33.744729,151.142138,207310,Pymble Station
+T1.North Shore & Gordon[39],T1,North Shore & Gordon,T1_Gordon,Gordon,39,207210,-33.756009,151.154528,207210,Gordon Station
+T1.North Shore & Gordon[40],T1,North Shore & Gordon,T1_Gordon,Killara,40,207110,-33.765409,151.161647,207110,Killara Station
+T1.North Shore & Gordon[41],T1,North Shore & Gordon,T1_Gordon,Lindfield,41,207010,-33.775185,151.169111,207010,Lindfield Station
+T1.North Shore & Gordon[42],T1,North Shore & Gordon,T1_Gordon,Roseville,42,206910,-33.78422,151.177266,206910,Roseville Station
+T1.North Shore & Gordon[43],T1,North Shore & Gordon,T1_Gordon,Chatswood,43,206710,-33.797134,151.180821,206710,Chatswood Station
+T1.North Shore & Gordon[44],T1,North Shore & Gordon,T1_Gordon,Artarmon,44,206410,-33.808903,151.185294,206410,Artarmon Station
+T1.North Shore & Gordon[45],T1,North Shore & Gordon,T1_Gordon,St Leonards,45,206520,-33.822389,151.194127,206520,St Leonards Station
+T1.North Shore & Gordon[46],T1,North Shore & Gordon,T1_Gordon,Wollstonecraft,46,206510,-33.831795,151.191895,206510,Wollstonecraft Station
+T1.North Shore & Gordon[47],T1,North Shore & Gordon,T1_Gordon,Waverton,47,206020,-33.838245,151.197856,206020,Waverton Station
+T1.North Shore & Gordon[48],T1,North Shore & Gordon,T1_Gordon,North Sydney,48,206010,-33.841209,151.20741,206010,North Sydney Station
+T1.North Shore & Gordon[49],T1,North Shore & Gordon,T1_Gordon,Milsons Point,49,206110,-33.845893,151.211825,206110,Milsons Point Station
+T1.North Shore & Gordon[50],T1,North Shore & Gordon,T1_Gordon,Wynyard,50,200080,-33.865898,151.205789,200080,Wynyard Station
+T1.North Shore & Gordon[51],T1,North Shore & Gordon,T1_Gordon,Town Hall,51,200070,-33.873596,151.206899,200070,Town Hall Station
+T1.North Shore & Gordon[52],T1,North Shore & Gordon,T1_Gordon,Central,52,200060,-33.883882,151.205829,200060,Central Station
+T1.Richmond[0],T1,Richmond,T1_Richmond,Richmond,0,275320,-33.599112,150.753211,275320,Richmond Station
+T1.Richmond[1],T1,Richmond,T1_Richmond,East Richmond,1,275310,-33.601796,150.759234,275310,East Richmond Station
+T1.Richmond[2],T1,Richmond,T1_Richmond,Clarendon,2,275630,-33.608952,150.788563,275630,Clarendon Station
+T1.Richmond[3],T1,Richmond,T1_Richmond,Windsor,3,275620,-33.613928,150.811408,275620,Windsor Station
+T1.Richmond[4],T1,Richmond,T1_Richmond,Mulgrave,4,275610,-33.626684,150.830637,275610,Mulgrave Station
+T1.Richmond[5],T1,Richmond,T1_Richmond,Vineyard,5,276520,-33.650504,150.851246,276520,Vineyard Station
+T1.Richmond[6],T1,Richmond,T1_Richmond,Riverstone,6,276510,-33.679043,150.860268,276510,Riverstone Station
+T1.Richmond[7],T1,Richmond,T1_Richmond,Schofields,7,276220,-33.704477,150.873817,276220,Schofields Station
+T1.Richmond[8],T1,Richmond,T1_Richmond,Quakers Hill,8,276310,-33.728025,150.886725,276310,Quakers Hill Station
+T1.Richmond[9],T1,Richmond,T1_Richmond,Marayong,9,214820,-33.746451,150.900199,214820,Marayong Station
+T1.Richmond[10],T1,Richmond,T1_Richmond,Blacktown,10,214810,-33.768229,150.907511,214810,Blacktown Station
+T1.Richmond[11],T1,Richmond,T1_Richmond,Seven Hills,11,214710,-33.77443,150.936513,214710,Seven Hills Station
+T1.Richmond[12],T1,Richmond,T1_Richmond,Toongabbie,12,214610,-33.787263,150.951437,214610,Toongabbie Station
+T1.Richmond[13],T1,Richmond,T1_Richmond,Pendle Hill,13,214530,-33.801348,150.956343,214530,Pendle Hill Station
+T1.Richmond[14],T1,Richmond,T1_Richmond,Wentworthville,14,214520,-33.807193,150.972638,214520,Wentworthville Station
+T1.Richmond[15],T1,Richmond,T1_Richmond,Westmead,15,214510,-33.808529,150.988011,214510,Westmead Station
+T1.Richmond[16],T1,Richmond,T1_Richmond,Parramatta,16,215020,-33.817579,151.005535,215020,Parramatta Station
+T1.Richmond[17],T1,Richmond,T1_Richmond,Harris Park,17,215010,-33.82326,151.007639,215010,Harris Park Station
+T1.Richmond[18],T1,Richmond,T1_Richmond,Granville,18,214240,-33.833176,151.012495,214240,Granville Station
+T1.Richmond[19],T1,Richmond,T1_Richmond,Clyde,19,214230,-33.836282,151.01749,214230,Clyde Station
+T1.Richmond[20],T1,Richmond,T1_Richmond,Auburn,20,214410,-33.84927,151.032867,214410,Auburn Station
+T1.Richmond[21],T1,Richmond,T1_Richmond,Lidcombe,21,214110,-33.863889,151.04539,214110,Lidcombe Station
+T1.Richmond[22],T1,Richmond,T1_Richmond,Strathfield,22,213510,-33.87181,151.094427,213510,Strathfield Station
+T1.Richmond[23],T1,Richmond,T1_Richmond,Redfern,23,201510,-33.89237,151.198485,201510,Redfern Station
+T1.Richmond[24],T1,Richmond,T1_Richmond,Central,24,200060,-33.883882,151.205829,200060,Central Station
+T1.Western[0],T1,Western,BMT,Bathurst,0,279538,-33.425627,149.583216,279538,Bathurst Station
+T1.Western[1],T1,Western,BMT,Tarana,1,27871,-33.524107,149.907594,27871,Tarana Station
+T1.Western[2],T1,Western,BMT,Rydal,2,2790128,-33.483895,150.031763,2790128,Rydal Station
+T1.Western[3],T1,Western,BMT,Lithgow,3,279010,-33.480501,150.157449,279010,Lithgow Station
+T1.Western[4],T1,Western,BMT,Zig Zag,4,278630,-33.47181,150.202088,278630,Zig Zag Station
+T1.Western[5],T1,Western,BMT,Bell,5,278620,-33.505686,150.278886,278620,Bell Station
+T1.Western[6],T1,Western,BMT,Mount Victoria,6,278610,-33.588112,150.256973,278610,Mount Victoria Station
+T1.Western[7],T1,Western,BMT,Blackheath,7,278510,-33.632881,150.284345,278510,Blackheath Station
+T1.Western[8],T1,Western,BMT,Medlow Bath,8,278030,-33.673876,150.280786,278030,Medlow Bath Station
+T1.Western[9],T1,Western,BMT,Katoomba,9,278020,-33.711877,150.311265,278020,Katoomba Station
+T1.Western[10],T1,Western,BMT,Leura,10,278010,-33.711722,150.33027,278010,Leura Station
+T1.Western[11],T1,Western,BMT,Wentworth Falls,11,278210,-33.709472,150.376311,278210,Wentworth Falls Station
+T1.Western[12],T1,Western,BMT,Bullaburra,12,278410,-33.723606,150.414607,278410,Bullaburra Station
+T1.Western[13],T1,Western,BMT,Lawson,13,278310,-33.719145,150.429824,278310,Lawson Station
+T1.Western[14],T1,Western,BMT,Hazelbrook,14,277910,-33.723974,150.454604,277910,Hazelbrook Station
+T1.Western[15],T1,Western,BMT,Woodford,15,277810,-33.735449,150.481917,277810,Woodford Station
+T1.Western[16],T1,Western,BMT,Linden,16,277820,-33.715002,150.505264,277820,Linden Station
+T1.Western[17],T1,Western,BMT,Faulconbridge,17,277610,-33.696488,150.535034,277610,Faulconbridge Station
+T1.Western[18],T1,Western,BMT,Springwood,18,277720,-33.698842,150.56398,277720,Springwood Station
+T1.Western[19],T1,Western,BMT,Valley Heights,19,277710,-33.704466,150.583813,277710,Valley Heights Station
+T1.Western[20],T1,Western,BMT,Warrimoo,20,277420,-33.721196,150.601979,277420,Warrimoo Station
+T1.Western[21],T1,Western,BMT,Blaxland,21,277410,-33.743577,150.609596,277410,Blaxland Station
+T1.Western[22],T1,Western,BMT,Glenbrook,22,277310,-33.769004,150.620834,277310,Glenbrook Station
+T1.Western[23],T1,Western,BMT,Lapstone,23,275030,-33.773698,150.642797,275030,Lapstone Station
+T1.Western[24],T1,Western,BMT,Emu Plains,24,275020,-33.745568,150.672287,275020,Emu Plains Station
+T1.Western[25],T1,Western,BMT,Penrith,25,275010,-33.750055,150.696135,275010,Penrith Station
+T1.Western[32],T1,Western,BMT,Blacktown,32,214810,-33.768229,150.907511,214810,Blacktown Station
+T1.Western[37],T1,Western,BMT,Westmead,37,214510,-33.808529,150.988011,214510,Westmead Station
+T1.Western[38],T1,Western,BMT,Parramatta,38,215020,-33.817579,151.005535,215020,Parramatta Station
+T1.Western[44],T1,Western,BMT,Strathfield,44,213510,-33.87181,151.094427,213510,Strathfield Station
+T1.Western[45],T1,Western,BMT,Redfern,45,201510,-33.89237,151.198485,201510,Redfern Station
+T1.Western[46],T1,Western,BMT,Central,46,200060,-33.883882,151.205829,200060,Central Station
+T1.Western[25],T1,Western,T1_Penrith,Penrith,25,275010,-33.750055,150.696135,275010,Penrith Station
+T1.Western[26],T1,Western,T1_Penrith,Kingswood,26,274720,-33.758251,150.719824,274720,Kingswood Station
+T1.Western[27],T1,Western,T1_Penrith,Werrington,27,274710,-33.759292,150.75834,274710,Werrington Station
+T1.Western[28],T1,Western,T1_Penrith,St Marys,28,276010,-33.762256,150.776029,276010,St Marys Station
+T1.Western[29],T1,Western,T1_Penrith,Mount Druitt,29,277010,-33.769542,150.819799,277010,Mount Druitt Station
+T1.Western[30],T1,Western,T1_Penrith,Rooty Hill,30,276610,-33.771512,150.845019,276610,Rooty Hill Station
+T1.Western[31],T1,Western,T1_Penrith,Doonside,31,276710,-33.763985,150.868352,276710,Doonside Station
+T1.Western[32],T1,Western,T1_Penrith,Blacktown,32,214810,-33.768229,150.907511,214810,Blacktown Station
+T1.Western[33],T1,Western,T1_Penrith,Seven Hills,33,214710,-33.77443,150.936513,214710,Seven Hills Station
+T1.Western[34],T1,Western,T1_Penrith,Toongabbie,34,214610,-33.787263,150.951437,214610,Toongabbie Station
+T1.Western[35],T1,Western,T1_Penrith,Pendle Hill,35,214530,-33.801348,150.956343,214530,Pendle Hill Station
+T1.Western[36],T1,Western,T1_Penrith,Wentworthville,36,214520,-33.807193,150.972638,214520,Wentworthville Station
+T1.Western[37],T1,Western,T1_Penrith,Westmead,37,214510,-33.808529,150.988011,214510,Westmead Station
+T1.Western[38],T1,Western,T1_Penrith,Parramatta,38,215020,-33.817579,151.005535,215020,Parramatta Station
+T1.Western[39],T1,Western,T1_Penrith,Harris Park,39,215010,-33.82326,151.007639,215010,Harris Park Station
+T1.Western[40],T1,Western,T1_Penrith,Granville,40,214240,-33.833176,151.012495,214240,Granville Station
+T1.Western[41],T1,Western,T1_Penrith,Clyde,41,214230,-33.836282,151.01749,214230,Clyde Station
+T1.Western[42],T1,Western,T1_Penrith,Auburn,42,214410,-33.84927,151.032867,214410,Auburn Station
+T1.Western[43],T1,Western,T1_Penrith,Lidcombe,43,214110,-33.863889,151.04539,214110,Lidcombe Station
+T1.Western[44],T1,Western,T1_Penrith,Strathfield,44,213510,-33.87181,151.094427,213510,Strathfield Station
+T1.Western[45],T1,Western,T1_Penrith,Redfern,45,201510,-33.89237,151.198485,201510,Redfern Station
+T1.Western[46],T1,Western,T1_Penrith,Central,46,200060,-33.883882,151.205829,200060,Central Station
+T2.Inner West[0],T2,Inner West,T2_Inner West,Parramatta,0,215020,-33.817579,151.005535,215020,Parramatta Station
+T2.Inner West[1],T2,Inner West,T2_Inner West,Harris Park,1,215010,-33.82326,151.007639,215010,Harris Park Station
+T2.Inner West[2],T2,Inner West,T2_Inner West,Granville,2,214240,-33.833176,151.012495,214240,Granville Station
+T2.Inner West[3],T2,Inner West,T2_Inner West,Clyde,3,214230,-33.836282,151.01749,214230,Clyde Station
+T2.Inner West[4],T2,Inner West,T2_Inner West,Auburn,4,214410,-33.84927,151.032867,214410,Auburn Station
+T2.Inner West[5],T2,Inner West,T2_Inner West,Lidcombe,5,214110,-33.863889,151.04539,214110,Lidcombe Station
+T2.Inner West[6],T2,Inner West,T2_Inner West,Flemington,6,214020,-33.864822,151.069767,214020,Flemington Station
+T2.Inner West[7],T2,Inner West,T2_Inner West,Homebush,7,214010,-33.86674,151.086441,214010,Homebush Station
+T2.Inner West[8],T2,Inner West,T2_Inner West,Strathfield,8,213510,-33.87181,151.094427,213510,Strathfield Station
+T2.Inner West[9],T2,Inner West,T2_Inner West,Burwood,9,213410,-33.877315,151.104762,213410,Burwood Station
+T2.Inner West[10],T2,Inner West,T2_Inner West,Croydon,10,213210,-33.883234,151.115488,213210,Croydon Station
+T2.Inner West[11],T2,Inner West,T2_Inner West,Ashfield,11,213110,-33.887551,151.125504,213110,Ashfield Station
+T2.Inner West[12],T2,Inner West,T2_Inner West,Summer Hill,12,213010,-33.890561,151.139445,213010,Summer Hill Station
+T2.Inner West[13],T2,Inner West,T2_Inner West,Lewisham,13,204920,-33.893279,151.147273,204920,Lewisham Station
+T2.Inner West[14],T2,Inner West,T2_Inner West,Petersham,14,204910,-33.893859,151.155156,204910,Petersham Station
+T2.Inner West[15],T2,Inner West,T2_Inner West,Stanmore,15,204810,-33.894549,151.164009,204810,Stanmore Station
+T2.Inner West[16],T2,Inner West,T2_Inner West,Newtown,16,204210,-33.897883,151.179925,204210,Newtown Station
+T2.Inner West[17],T2,Inner West,T2_Inner West,Macdonaldtown,17,201520,-33.89666,151.186292,201520,Macdonaldtown Station
+T2.Inner West[18],T2,Inner West,T2_Inner West,Redfern,18,201510,-33.89237,151.198485,201510,Redfern Station
+T2.Inner West[19],T2,Inner West,T2_Inner West,Central,19,200060,-33.883882,151.205829,200060,Central Station
+T2.Inner West[20],T2,Inner West,T2_Inner West,Town Hall,20,200070,-33.873596,151.206899,200070,Town Hall Station
+T2.Inner West[21],T2,Inner West,T2_Inner West,Wynyard,21,200080,-33.865898,151.205789,200080,Wynyard Station
+T2.Inner West[22],T2,Inner West,T2_Inner West,Circular Quay Station,22,200020,-33.861324,151.21039,200020,Circular Quay Station
+T2.Inner West[23],T2,Inner West,T2_Inner West,St James,23,200050,-33.870697,151.211837,200050,St James Station
+T2.Inner West[24],T2,Inner West,T2_Inner West,Museum,24,200040,-33.8757,151.210106,200040,Museum Station
+T2.Leppington[0],T2,Leppington,T2_Leppington,Leppington,0,217933,-33.9544,150.8081,217933,Leppington Station
+T2.Leppington[1],T2,Leppington,T2_Leppington,Edmondson Park,1,217426,-33.9693,150.8587,217426,Edmondson Park Station
+T2.Leppington[2],T2,Leppington,T2_Leppington,Glenfield,2,216710,-33.972368,150.892807,216710,Glenfield Station
+T2.Leppington[3],T2,Leppington,T2_Leppington,Casula,3,217030,-33.949818,150.911946,217030,Casula Station
+T2.Leppington[4],T2,Leppington,T2_Leppington,Liverpool,4,217020,-33.92511,150.927054,217020,Liverpool Station
+T2.Leppington[5],T2,Leppington,T2_Leppington,Warwick Farm,5,217010,-33.91345,150.935036,217010,Warwick Farm Station
+T2.Leppington[6],T2,Leppington,T2_Leppington,Cabramatta,6,216620,-33.894867,150.938821,216620,Cabramatta Station
+T2.Leppington[7],T2,Leppington,T2_Leppington,Canley Vale,7,216610,-33.886798,150.943987,216610,Canley Vale Station
+T2.Leppington[8],T2,Leppington,T2_Leppington,Fairfield,8,216510,-33.872331,150.957071,216510,Fairfield Station
+T2.Leppington[9],T2,Leppington,T2_Leppington,Yennora,9,216120,-33.864718,150.971007,216120,Yennora Station
+T2.Leppington[10],T2,Leppington,T2_Leppington,Guildford,10,216110,-33.854506,150.984361,216110,Guildford Station
+T2.Leppington[11],T2,Leppington,T2_Leppington,Merrylands,11,216010,-33.83635,150.992863,216010,Merrylands Station
+T2.Leppington[12],T2,Leppington,T2_Leppington,Granville,12,214240,-33.833176,151.012495,214240,Granville Station
+T2.Leppington[13],T2,Leppington,T2_Leppington,Clyde,13,214230,-33.836282,151.01749,214230,Clyde Station
+T2.Leppington[14],T2,Leppington,T2_Leppington,Auburn,14,214410,-33.84927,151.032867,214410,Auburn Station
+T2.Leppington[15],T2,Leppington,T2_Leppington,Lidcombe,15,214110,-33.863889,151.04539,214110,Lidcombe Station
+T2.Leppington[16],T2,Leppington,T2_Leppington,Flemington,16,214020,-33.864822,151.069767,214020,Flemington Station
+T2.Leppington[17],T2,Leppington,T2_Leppington,Homebush,17,214010,-33.86674,151.086441,214010,Homebush Station
+T2.Leppington[18],T2,Leppington,T2_Leppington,Strathfield,18,213510,-33.87181,151.094427,213510,Strathfield Station
+T2.Leppington[19],T2,Leppington,T2_Leppington,Burwood,19,213410,-33.877315,151.104762,213410,Burwood Station
+T2.Leppington[20],T2,Leppington,T2_Leppington,Croydon,20,213210,-33.883234,151.115488,213210,Croydon Station
+T2.Leppington[21],T2,Leppington,T2_Leppington,Ashfield,21,213110,-33.887551,151.125504,213110,Ashfield Station
+T2.Leppington[22],T2,Leppington,T2_Leppington,Summer Hill,22,213010,-33.890561,151.139445,213010,Summer Hill Station
+T2.Leppington[23],T2,Leppington,T2_Leppington,Lewisham,23,204920,-33.893279,151.147273,204920,Lewisham Station
+T2.Leppington[24],T2,Leppington,T2_Leppington,Petersham,24,204910,-33.893859,151.155156,204910,Petersham Station
+T2.Leppington[25],T2,Leppington,T2_Leppington,Stanmore,25,204810,-33.894549,151.164009,204810,Stanmore Station
+T2.Leppington[26],T2,Leppington,T2_Leppington,Newtown,26,204210,-33.897883,151.179925,204210,Newtown Station
+T2.Leppington[27],T2,Leppington,T2_Leppington,Macdonaldtown,27,201520,-33.89666,151.186292,201520,Macdonaldtown Station
+T2.Leppington[28],T2,Leppington,T2_Leppington,Redfern,28,201510,-33.89237,151.198485,201510,Redfern Station
+T2.Leppington[29],T2,Leppington,T2_Leppington,Central,29,200060,-33.883882,151.205829,200060,Central Station
+T2.Leppington[30],T2,Leppington,T2_Leppington,Town Hall,30,200070,-33.873596,151.206899,200070,Town Hall Station
+T2.Leppington[31],T2,Leppington,T2_Leppington,Wynyard,31,200080,-33.865898,151.205789,200080,Wynyard Station
+T2.Leppington[32],T2,Leppington,T2_Leppington,Circular Quay Station,32,200020,-33.861324,151.21039,200020,Circular Quay Station
+T2.Leppington[33],T2,Leppington,T2_Leppington,St James,33,200050,-33.870697,151.211837,200050,St James Station
+T2.Leppington[34],T2,Leppington,T2_Leppington,Museum,34,200040,-33.8757,151.210106,200040,Museum Station
+T3.Lidcombe[0],T3,Lidcombe,T3_Lidcombe,Lidcombe,0,214110,-33.863889,151.04539,214110,Lidcombe Station
+T3.Lidcombe[1],T3,Lidcombe,T3_Lidcombe,Berala,1,214120,-33.871836,151.032442,214120,Berala Station
+T3.Lidcombe[2],T3,Lidcombe,T3_Lidcombe,Regents Park,2,214310,-33.882989,151.024187,214310,Regents Park Station
+T3.Lidcombe[3],T3,Lidcombe,T3_Lidcombe,Birrong,3,214320,-33.893279,151.024041,214320,Birrong Station
+T3.Lidcombe[4],T3,Lidcombe,T3_Lidcombe,Yagoona,4,219910,-33.906553,151.024152,219910,Yagoona Station
+T3.Lidcombe[5],T3,Lidcombe,T3_Lidcombe,Bankstown,5,220010,-33.917865,151.034687,220010,Bankstown Station
+T3.Lidcombe[6],T3,Lidcombe,T3_Lidcombe,Punchbowl,6,219610,-33.925378,151.055867,219610,Punchbowl Station
+T3.Lidcombe[7],T3,Lidcombe,T3_Lidcombe,Wiley Park,7,219520,-33.923009,151.067276,219520,Wiley Park Station
+T3.Lidcombe[8],T3,Lidcombe,T3_Lidcombe,Lakemba,8,219510,-33.920127,151.075955,219510,Lakemba Station
+T3.Lidcombe[9],T3,Lidcombe,T3_Lidcombe,Belmore,9,219210,-33.917218,151.088733,219210,Belmore Station
+T3.Lidcombe[10],T3,Lidcombe,T3_Lidcombe,Campsie,10,219410,-33.910481,151.102631,219410,Campsie Station
+T3.Lidcombe[11],T3,Lidcombe,T3_Lidcombe,Canterbury,11,219320,-33.911672,151.118213,219320,Canterbury Station
+T3.Lidcombe[12],T3,Lidcombe,T3_Lidcombe,Hurlstone Park,12,219310,-33.910422,151.132093,219310,Hurlstone Park Station
+T3.Lidcombe[13],T3,Lidcombe,T3_Lidcombe,Dulwich Hill,13,220310,-33.911102,151.140989,220310,Dulwich Hill Station
+T3.Lidcombe[14],T3,Lidcombe,T3_Lidcombe,Marrickville,14,220410,-33.91409,151.154033,220410,Marrickville Station
+T3.Lidcombe[15],T3,Lidcombe,T3_Lidcombe,Sydenham,15,204420,-33.914373,151.166646,204420,Sydenham Station
+T3.Lidcombe[18],T3,Lidcombe,T3_Lidcombe,Redfern,16,201510,-33.89237,151.198485,201510,Redfern Station
+T3.Lidcombe[19],T3,Lidcombe,T3_Lidcombe,Central,17,200060,-33.883882,151.205829,200060,Central Station
+T3.Lidcombe[20],T3,Lidcombe,T3_Lidcombe,Town Hall,20,200070,-33.873596,151.206899,200070,Town Hall Station
+T3.Lidcombe[21],T3,Lidcombe,T3_Lidcombe,Wynyard,21,200080,-33.865898,151.205789,200080,Wynyard Station
+T3.Lidcombe[22],T3,Lidcombe,T3_Lidcombe,Circular Quay Station,22,200020,-33.861324,151.21039,200020,Circular Quay Station
+T3.Lidcombe[23],T3,Lidcombe,T3_Lidcombe,St James,23,200050,-33.870697,151.211837,200050,St James Station
+T3.Lidcombe[24],T3,Lidcombe,T3_Lidcombe,Museum,24,200040,-33.8757,151.210106,200040,Museum Station
+T3.Liverpool[0],T3,Liverpool,T3_Liverpool,Liverpool,0,217020,-33.92511,150.927054,217020,Liverpool Station
+T3.Liverpool[1],T3,Liverpool,T3_Liverpool,Warwick Farm,1,217010,-33.91345,150.935036,217010,Warwick Farm Station
+T3.Liverpool[2],T3,Liverpool,T3_Liverpool,Cabramatta,2,216620,-33.894867,150.938821,216620,Cabramatta Station
+T3.Liverpool[3],T3,Liverpool,T3_Liverpool,Carramar,3,216330,-33.884318,150.961549,216330,Carramar Station
+T3.Liverpool[4],T3,Liverpool,T3_Liverpool,Villawood,4,216320,-33.880902,150.976048,216320,Villawood Station
+T3.Liverpool[5],T3,Liverpool,T3_Liverpool,Leightonfield,5,216310,-33.881502,150.984967,216310,Leightonfield Station
+T3.Liverpool[6],T3,Liverpool,T3_Liverpool,Chester Hill,6,216220,-33.883543,150.999446,216220,Chester Hill Station
+T3.Liverpool[7],T3,Liverpool,T3_Liverpool,Sefton,7,216210,-33.885236,151.011283,216210,Sefton Station
+T3.Liverpool[8],T3,Liverpool,T3_Liverpool,Birrong,8,214320,-33.893279,151.024041,214320,Birrong Station
+T3.Liverpool[9],T3,Liverpool,T3_Liverpool,Yagoona,9,219910,-33.906553,151.024152,219910,Yagoona Station
+T3.Liverpool[10],T3,Liverpool,T3_Liverpool,Bankstown,10,220010,-33.917865,151.034687,220010,Bankstown Station
+T3.Liverpool[11],T3,Liverpool,T3_Liverpool,Punchbowl,11,219610,-33.925378,151.055867,219610,Punchbowl Station
+T3.Liverpool[12],T3,Liverpool,T3_Liverpool,Wiley Park,12,219520,-33.923009,151.067276,219520,Wiley Park Station
+T3.Liverpool[13],T3,Liverpool,T3_Liverpool,Lakemba,13,219510,-33.920127,151.075955,219510,Lakemba Station
+T3.Liverpool[14],T3,Liverpool,T3_Liverpool,Belmore,14,219210,-33.917218,151.088733,219210,Belmore Station
+T3.Liverpool[15],T3,Liverpool,T3_Liverpool,Campsie,15,219410,-33.910481,151.102631,219410,Campsie Station
+T3.Liverpool[16],T3,Liverpool,T3_Liverpool,Canterbury,16,219320,-33.911672,151.118213,219320,Canterbury Station
+T3.Liverpool[17],T3,Liverpool,T3_Liverpool,Hurlstone Park,17,219310,-33.910422,151.132093,219310,Hurlstone Park Station
+T3.Liverpool[18],T3,Liverpool,T3_Liverpool,Dulwich Hill,18,220310,-33.911102,151.140989,220310,Dulwich Hill Station
+T3.Liverpool[19],T3,Liverpool,T3_Liverpool,Marrickville,19,220410,-33.91409,151.154033,220410,Marrickville Station
+T3.Liverpool[20],T3,Liverpool,T3_Liverpool,Sydenham,20,204420,-33.914373,151.166646,204420,Sydenham Station
+T3.Liverpool[23],T3,Liverpool,T3_Liverpool,Redfern,21,201510,-33.89237,151.198485,201510,Redfern Station
+T3.Liverpool[24],T3,Liverpool,T3_Liverpool,Central,22,200060,-33.883882,151.205829,200060,Central Station
+T3.Liverpool[25],T3,Liverpool,T3_Liverpool,Town Hall,23,200070,-33.873596,151.206899,200070,Town Hall Station
+T3.Liverpool[26],T3,Liverpool,T3_Liverpool,Wynyard,24,200080,-33.865898,151.205789,200080,Wynyard Station
+T3.Liverpool[27],T3,Liverpool,T3_Liverpool,Circular Quay Station,25,200020,-33.861324,151.21039,200020,Circular Quay Station
+T3.Liverpool[28],T3,Liverpool,T3_Liverpool,St James,26,200050,-33.870697,151.211837,200050,St James Station
+T3.Liverpool[29],T3,Liverpool,T3_Liverpool,Museum,27,200040,-33.8757,151.210106,200040,Museum Station
+T4.Cronulla[0],T4,Cronulla,T4_Cronulla,Cronulla,0,223020,-34.056252,151.151542,223020,Cronulla Station
+T4.Cronulla[1],T4,Cronulla,T4_Cronulla,Woolooware,1,223010,-34.047718,151.143995,223010,Woolooware Station
+T4.Cronulla[2],T4,Cronulla,T4_Cronulla,Caringbah,2,222910,-34.04161,151.122748,222910,Caringbah Station
+T4.Cronulla[3],T4,Cronulla,T4_Cronulla,Miranda,3,222810,-34.036355,151.102854,222810,Miranda Station
+T4.Cronulla[4],T4,Cronulla,T4_Cronulla,Gymea,4,222710,-34.034893,151.085477,222710,Gymea Station
+T4.Cronulla[5],T4,Cronulla,T4_Cronulla,Kirrawee,5,223230,-34.035015,151.071315,223230,Kirrawee Station
+T4.Cronulla[6],T4,Cronulla,T4_Cronulla,Sutherland,6,223210,-34.031787,151.05719,223210,Sutherland Station
+T4.Cronulla[7],T4,Cronulla,T4_Cronulla,Jannali,7,222620,-34.016129,151.064664,222620,Jannali Station
+T4.Cronulla[8],T4,Cronulla,T4_Cronulla,Como,8,222610,-34.004266,151.067999,222610,Como Station
+T4.Cronulla[9],T4,Cronulla,T4_Cronulla,Oatley,9,222320,-33.980845,151.078965,222320,Oatley Station
+T4.Cronulla[10],T4,Cronulla,T4_Cronulla,Mortdale,10,222310,-33.970587,151.081288,222310,Mortdale Station
+T4.Cronulla[11],T4,Cronulla,T4_Cronulla,Penshurst,11,222210,-33.96613,151.089387,222210,Penshurst Station
+T4.Cronulla[12],T4,Cronulla,T4_Cronulla,Hurstville,12,222010,-33.967454,151.102757,222010,Hurstville Station
+T4.Cronulla[13],T4,Cronulla,T4_Cronulla,Allawah,13,222020,-33.969584,151.11433,222020,Allawah Station
+T4.Cronulla[14],T4,Cronulla,T4_Cronulla,Carlton,14,221810,-33.968266,151.124337,221810,Carlton Station
+T4.Cronulla[15],T4,Cronulla,T4_Cronulla,Kogarah,15,221710,-33.962149,151.132641,221710,Kogarah Station
+T4.Cronulla[16],T4,Cronulla,T4_Cronulla,Rockdale,16,221620,-33.95188,151.136862,221620,Rockdale Station
+T4.Cronulla[17],T4,Cronulla,T4_Cronulla,Banksia,17,221610,-33.945286,151.140432,221610,Banksia Station
+T4.Cronulla[18],T4,Cronulla,T4_Cronulla,Arncliffe,18,220520,-33.936456,151.147299,220520,Arncliffe Station
+T4.Cronulla[19],T4,Cronulla,T4_Cronulla,Wolli Creek,19,220510,-33.928547,151.154113,220510,Wolli Creek Station
+T4.Cronulla[20],T4,Cronulla,T4_Cronulla,Tempe,20,204430,-33.924505,151.156507,204430,Tempe Station
+T4.Cronulla[21],T4,Cronulla,T4_Cronulla,Sydenham,21,204420,-33.914373,151.166646,204420,Sydenham Station
+T4.Cronulla[22],T4,Cronulla,T4_Cronulla,Redfern,22,201510,-33.89237,151.198485,201510,Redfern Station
+T4.Cronulla[23],T4,Cronulla,T4_Cronulla,Central,23,200060,-33.883882,151.205829,200060,Central Station
+T4.Eastern Suburbs[0],T4,Eastern Suburbs,T4_Eastern Suburbs,Bondi Junction,0,202210,-33.891202,151.248384,202210,Bondi Junction Station
+T4.Eastern Suburbs[1],T4,Eastern Suburbs,T4_Eastern Suburbs,Edgecliff,1,202710,-33.879251,151.236161,202710,Edgecliff Station
+T4.Eastern Suburbs[2],T4,Eastern Suburbs,T4_Eastern Suburbs,Kings Cross,2,201110,-33.874541,151.222334,201110,Kings Cross Station
+T4.Eastern Suburbs[3],T4,Eastern Suburbs,T4_Eastern Suburbs,Martin Place,3,200030,-33.867871,151.211591,200030,Martin Place Station
+T4.Eastern Suburbs[4],T4,Eastern Suburbs,T4_Eastern Suburbs,Town Hall,4,200070,-33.873596,151.206899,200070,Town Hall Station
+T4.Eastern Suburbs[5],T4,Eastern Suburbs,T4_Eastern Suburbs,Central,5,200060,-33.883882,151.205829,200060,Central Station
+T4.Illawarra-Bomaderry[0],T4,Illawarra-Bomaderry,SCO_Bomaderry,Bomaderry,0,254110,-34.853777,150.609809,254110,Bomaderry Station
+T4.Illawarra-Bomaderry[1],T4,Illawarra-Bomaderry,SCO_Bomaderry,Berry,1,253510,-34.780333,150.696966,253510,Berry Station
+T4.Illawarra-Bomaderry[2],T4,Illawarra-Bomaderry,SCO_Bomaderry,Gerringong,2,253420,-34.744886,150.817508,253420,Gerringong Station
+T4.Illawarra-Bomaderry[3],T4,Illawarra-Bomaderry,SCO_Bomaderry,Kiama,3,253330,-34.672518,150.854695,253330,Kiama Station
+T4.Illawarra-Bomaderry[4],T4,Illawarra-Bomaderry,SCO_Bomaderry,Bombo,4,253320,-34.658029,150.853975,253320,Bombo Station
+T4.Illawarra-Bomaderry[5],T4,Illawarra-Bomaderry,SCO_Bomaderry,Minnamurra,5,253310,-34.6257,150.852257,253310,Minnamurra Station
+T4.Illawarra-Bomaderry[6],T4,Illawarra-Bomaderry,SCO_Bomaderry,Shellharbour Junction,6,2529218,-34.591283,150.844727,2529218,Shellharbour Junction Station
+T4.Illawarra-Bomaderry[7],T4,Illawarra-Bomaderry,SCO_Bomaderry,Oak Flats,7,252920,-34.572231,150.820908,252920,Oak Flats Station
+T4.Illawarra-Bomaderry[8],T4,Illawarra-Bomaderry,SCO_Bomaderry,Albion Park,8,252710,-34.562647,150.7985,252710,Albion Park Station
+T4.Illawarra-Bomaderry[9],T4,Illawarra-Bomaderry,SCO_Bomaderry,Dapto,9,253020,-34.49209,150.792328,253020,Dapto Station
+T4.Illawarra-Bomaderry[10],T4,Illawarra-Bomaderry,SCO_Bomaderry,Kembla Grange,10,253010,-34.470218,150.817341,253010,Kembla Grange Station
+T4.Illawarra-Bomaderry[11],T4,Illawarra-Bomaderry,SCO_Bomaderry,Unanderra,11,252610,-34.454429,150.846263,252610,Unanderra Station
+T4.Illawarra-Bomaderry[12],T4,Illawarra-Bomaderry,SCO_Bomaderry,Coniston,12,250030,-34.437455,150.885529,250030,Coniston Station
+T4.Illawarra-Bomaderry[13],T4,Illawarra-Bomaderry,SCO_Bomaderry,Wollongong,13,250020,-34.427016,150.888243,250020,Wollongong Station
+T4.Illawarra-Bomaderry[14],T4,Illawarra-Bomaderry,SCO_Bomaderry,North Wollongong,14,250010,-34.412593,150.891349,250010,North Wollongong Station
+T4.Illawarra-Bomaderry[15],T4,Illawarra-Bomaderry,SCO_Bomaderry,Fairy Meadow,15,251910,-34.395834,150.89617,251910,Fairy Meadow Station
+T4.Illawarra-Bomaderry[16],T4,Illawarra-Bomaderry,SCO_Bomaderry,Towradgi,16,251830,-34.384686,150.901239,251830,Towradgi Station
+T4.Illawarra-Bomaderry[17],T4,Illawarra-Bomaderry,SCO_Bomaderry,Corrimal Station,17,250520,-34.375727,150.904972,251820,Corrimal Station
+T4.Illawarra-Bomaderry[18],T4,Illawarra-Bomaderry,SCO_Bomaderry,Bellambi,18,251810,-34.363318,150.909903,251810,Bellambi Station
+T4.Illawarra-Bomaderry[19],T4,Illawarra-Bomaderry,SCO_Bomaderry,Woonona,19,251710,-34.35023,150.914954,251710,Woonona Station
+T4.Illawarra-Bomaderry[20],T4,Illawarra-Bomaderry,SCO_Bomaderry,Bulli,20,251610,-34.334481,150.914744,251610,Bulli Station
+T4.Illawarra-Bomaderry[21],T4,Illawarra-Bomaderry,SCO_Bomaderry,Thirroul,21,251550,-34.318424,150.918652,251550,Thirroul Station
+T4.Illawarra-Bomaderry[22],T4,Illawarra-Bomaderry,SCO_Bomaderry,Austinmer,22,251540,-34.30641,150.929313,251540,Austinmer Station
+T4.Illawarra-Bomaderry[23],T4,Illawarra-Bomaderry,SCO_Bomaderry,Coledale,23,251530,-34.289389,150.943335,251530,Coledale Station
+T4.Illawarra-Bomaderry[24],T4,Illawarra-Bomaderry,SCO_Bomaderry,Wombarra,24,251520,-34.275933,150.953145,251520,Wombarra Station
+T4.Illawarra-Bomaderry[25],T4,Illawarra-Bomaderry,SCO_Bomaderry,Scarborough,25,251510,-34.264987,150.965791,251510,Scarborough Station
+T4.Illawarra-Bomaderry[26],T4,Illawarra-Bomaderry,SCO_Bomaderry,Coalcliff,26,250850,-34.24225,150.977243,250850,Coalcliff Station
+T4.Illawarra-Bomaderry[27],T4,Illawarra-Bomaderry,SCO_Bomaderry,Stanwell Park,27,250840,-34.226586,150.980938,250840,Stanwell Park Station
+T4.Illawarra-Bomaderry[28],T4,Illawarra-Bomaderry,SCO_Bomaderry,Otford,28,250830,-34.2102,151.006004,250830,Otford Station
+T4.Illawarra-Bomaderry[29],T4,Illawarra-Bomaderry,SCO_Bomaderry,Helensburgh,29,250810,-34.17687,150.994825,250810,Helensburgh Station
+T4.Illawarra-Bomaderry[30],T4,Illawarra-Bomaderry,SCO_Bomaderry,Waterfall,30,223330,-34.134385,150.994512,223330,Waterfall Station
+T4.Illawarra-Bomaderry[31],T4,Illawarra-Bomaderry,SCO_Bomaderry,Heathcote,31,223320,-34.088237,151.008002,223320,Heathcote Station
+T4.Illawarra-Bomaderry[32],T4,Illawarra-Bomaderry,SCO_Bomaderry,Engadine,32,223310,-34.067899,151.014653,223310,Engadine Station
+T4.Illawarra-Bomaderry[33],T4,Illawarra-Bomaderry,SCO_Bomaderry,Loftus,33,223220,-34.045138,151.05132,223220,Loftus Station
+T4.Illawarra-Bomaderry[34],T4,Illawarra-Bomaderry,SCO_Bomaderry,Sutherland,34,223210,-34.031787,151.05719,223210,Sutherland Station
+T4.Illawarra-Bomaderry[35],T4,Illawarra-Bomaderry,SCO_Bomaderry,Jannali,35,222620,-34.016129,151.064664,222620,Jannali Station
+T4.Illawarra-Bomaderry[37],T4,Illawarra-Bomaderry,SCO_Bomaderry,Oatley,37,222320,-33.980845,151.078965,222320,Oatley Station
+T4.Illawarra-Bomaderry[38],T4,Illawarra-Bomaderry,SCO_Bomaderry,Mortdale,38,222310,-33.970587,151.081288,222310,Mortdale Station
+T4.Illawarra-Bomaderry[39],T4,Illawarra-Bomaderry,SCO_Bomaderry,Penshurst,39,222210,-33.96613,151.089387,222210,Penshurst Station
+T4.Illawarra-Bomaderry[40],T4,Illawarra-Bomaderry,SCO_Bomaderry,Hurstville,40,222010,-33.967454,151.102757,222010,Hurstville Station
+T4.Illawarra-Bomaderry[47],T4,Illawarra-Bomaderry,SCO_Bomaderry,Wolli Creek,47,220510,-33.928547,151.154113,220510,Wolli Creek Station
+T4.Illawarra-Bomaderry[49],T4,Illawarra-Bomaderry,SCO_Bomaderry,Sydenham,49,204420,-33.914373,151.166646,204420,Sydenham Station
+T4.Illawarra-Bomaderry[50],T4,Illawarra-Bomaderry,SCO_Bomaderry,Redfern,50,201510,-33.89237,151.198485,201510,Redfern Station
+T4.Illawarra-Bomaderry[51],T4,Illawarra-Bomaderry,SCO_Bomaderry,Central,51,200060,-33.883882,151.205829,200060,Central Station
+T4.Illawarra-Port Kembla[0],T4,Illawarra-Port Kembla,SCO_Port Kembla,Port Kembla,0,250540,-34.477245,150.901922,250540,Port Kembla Station
+T4.Illawarra-Port Kembla[1],T4,Illawarra-Port Kembla,SCO_Port Kembla,Port Kembla North,1,250530,-34.472767,150.888048,250530,Port Kembla North Station
+T4.Illawarra-Port Kembla[2],T4,Illawarra-Port Kembla,SCO_Port Kembla,Cringila,2,250520,-34.467176,150.878423,250520,Cringila Station
+T4.Illawarra-Port Kembla[3],T4,Illawarra-Port Kembla,SCO_Port Kembla,Lysaghts,3,250510,-34.454843,150.876094,250510,Lysaghts Station
+T4.Illawarra-Port Kembla[4],T4,Illawarra-Port Kembla,SCO_Port Kembla,Coniston,4,250030,-34.437455,150.885529,250030,Coniston Station
+T4.Illawarra-Port Kembla[5],T4,Illawarra-Port Kembla,SCO_Port Kembla,Wollongong,13,250020,-34.427016,150.888243,250020,Wollongong Station
+T4.Illawarra-Port Kembla[6],T4,Illawarra-Port Kembla,SCO_Port Kembla,North Wollongong,14,250010,-34.412593,150.891349,250010,North Wollongong Station
+T4.Illawarra-Port Kembla[7],T4,Illawarra-Port Kembla,SCO_Port Kembla,Fairy Meadow,15,251910,-34.395834,150.89617,251910,Fairy Meadow Station
+T4.Illawarra-Port Kembla[8],T4,Illawarra-Port Kembla,SCO_Port Kembla,Towradgi,16,251830,-34.384686,150.901239,251830,Towradgi Station
+T4.Illawarra-Port Kembla[9],T4,Illawarra-Port Kembla,SCO_Port Kembla,Corrimal Station,17,250520,-34.375727,150.904972,251820,Corrimal Station
+T4.Illawarra-Port Kembla[10],T4,Illawarra-Port Kembla,SCO_Port Kembla,Bellambi,18,251810,-34.363318,150.909903,251810,Bellambi Station
+T4.Illawarra-Port Kembla[11],T4,Illawarra-Port Kembla,SCO_Port Kembla,Woonona,19,251710,-34.35023,150.914954,251710,Woonona Station
+T4.Illawarra-Port Kembla[12],T4,Illawarra-Port Kembla,SCO_Port Kembla,Bulli,20,251610,-34.334481,150.914744,251610,Bulli Station
+T4.Illawarra-Port Kembla[13],T4,Illawarra-Port Kembla,SCO_Port Kembla,Thirroul,21,251550,-34.318424,150.918652,251550,Thirroul Station
+T4.Illawarra-Port Kembla[14],T4,Illawarra-Port Kembla,SCO_Port Kembla,Austinmer,22,251540,-34.30641,150.929313,251540,Austinmer Station
+T4.Illawarra-Port Kembla[15],T4,Illawarra-Port Kembla,SCO_Port Kembla,Coledale,23,251530,-34.289389,150.943335,251530,Coledale Station
+T4.Illawarra-Port Kembla[16],T4,Illawarra-Port Kembla,SCO_Port Kembla,Wombarra,24,251520,-34.275933,150.953145,251520,Wombarra Station
+T4.Illawarra-Port Kembla[17],T4,Illawarra-Port Kembla,SCO_Port Kembla,Scarborough,25,251510,-34.264987,150.965791,251510,Scarborough Station
+T4.Illawarra-Port Kembla[18],T4,Illawarra-Port Kembla,SCO_Port Kembla,Coalcliff,26,250850,-34.24225,150.977243,250850,Coalcliff Station
+T4.Illawarra-Port Kembla[19],T4,Illawarra-Port Kembla,SCO_Port Kembla,Stanwell Park,27,250840,-34.226586,150.980938,250840,Stanwell Park Station
+T4.Illawarra-Port Kembla[20],T4,Illawarra-Port Kembla,SCO_Port Kembla,Otford,28,250830,-34.2102,151.006004,250830,Otford Station
+T4.Illawarra-Port Kembla[21],T4,Illawarra-Port Kembla,SCO_Port Kembla,Helensburgh,29,250810,-34.17687,150.994825,250810,Helensburgh Station
+T4.Illawarra-Port Kembla[22],T4,Illawarra-Port Kembla,SCO_Port Kembla,Waterfall,30,223330,-34.134385,150.994512,223330,Waterfall Station
+T4.Illawarra-Port Kembla[23],T4,Illawarra-Port Kembla,SCO_Port Kembla,Heathcote,31,223320,-34.088237,151.008002,223320,Heathcote Station
+T4.Illawarra-Port Kembla[24],T4,Illawarra-Port Kembla,SCO_Port Kembla,Engadine,32,223310,-34.067899,151.014653,223310,Engadine Station
+T4.Illawarra-Port Kembla[25],T4,Illawarra-Port Kembla,SCO_Port Kembla,Loftus,33,223220,-34.045138,151.05132,223220,Loftus Station
+T4.Illawarra-Port Kembla[26],T4,Illawarra-Port Kembla,SCO_Port Kembla,Sutherland,34,223210,-34.031787,151.05719,223210,Sutherland Station
+T4.Illawarra-Port Kembla[27],T4,Illawarra-Port Kembla,SCO_Port Kembla,Jannali,35,222620,-34.016129,151.064664,222620,Jannali Station
+T4.Illawarra-Port Kembla[28],T4,Illawarra-Port Kembla,SCO_Port Kembla,Oatley,37,222320,-33.980845,151.078965,222320,Oatley Station
+T4.Illawarra-Port Kembla[29],T4,Illawarra-Port Kembla,SCO_Port Kembla,Mortdale,38,222310,-33.970587,151.081288,222310,Mortdale Station
+T4.Illawarra-Port Kembla[30],T4,Illawarra-Port Kembla,SCO_Port Kembla,Penshurst,39,222210,-33.96613,151.089387,222210,Penshurst Station
+T4.Illawarra-Port Kembla[31],T4,Illawarra-Port Kembla,SCO_Port Kembla,Hurstville,40,222010,-33.967454,151.102757,222010,Hurstville Station
+T4.Illawarra-Port Kembla[32],T4,Illawarra-Port Kembla,SCO_Port Kembla,Wolli Creek,47,220510,-33.928547,151.154113,220510,Wolli Creek Station
+T4.Illawarra-Port Kembla[33],T4,Illawarra-Port Kembla,SCO_Port Kembla,Sydenham,49,204420,-33.914373,151.166646,204420,Sydenham Station
+T4.Illawarra-Port Kembla[34],T4,Illawarra-Port Kembla,SCO_Port Kembla,Redfern,50,201510,-33.89237,151.198485,201510,Redfern Station
+T4.Illawarra-Port Kembla[35],T4,Illawarra-Port Kembla,SCO_Port Kembla,Central,51,200060,-33.883882,151.205829,200060,Central Station
+T4.Illawarra-Bomaderry[30],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Waterfall,30,223330,-34.134385,150.994512,223330,Waterfall Station
+T4.Illawarra-Bomaderry[31],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Heathcote,31,223320,-34.088237,151.008002,223320,Heathcote Station
+T4.Illawarra-Bomaderry[32],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Engadine,32,223310,-34.067899,151.014653,223310,Engadine Station
+T4.Illawarra-Bomaderry[33],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Loftus,33,223220,-34.045138,151.05132,223220,Loftus Station
+T4.Illawarra-Bomaderry[34],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Sutherland,34,223210,-34.031787,151.05719,223210,Sutherland Station
+T4.Illawarra-Bomaderry[35],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Jannali,35,222620,-34.016129,151.064664,222620,Jannali Station
+T4.Illawarra-Bomaderry[36],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Como,36,222610,-34.004266,151.067999,222610,Como Station
+T4.Illawarra-Bomaderry[37],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Oatley,37,222320,-33.980845,151.078965,222320,Oatley Station
+T4.Illawarra-Bomaderry[38],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Mortdale,38,222310,-33.970587,151.081288,222310,Mortdale Station
+T4.Illawarra-Bomaderry[39],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Penshurst,39,222210,-33.96613,151.089387,222210,Penshurst Station
+T4.Illawarra-Bomaderry[40],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Hurstville,40,222010,-33.967454,151.102757,222010,Hurstville Station
+T4.Illawarra-Bomaderry[41],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Allawah,41,222020,-33.969584,151.11433,222020,Allawah Station
+T4.Illawarra-Bomaderry[42],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Carlton,42,221810,-33.968266,151.124337,221810,Carlton Station
+T4.Illawarra-Bomaderry[43],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Kogarah,43,221710,-33.962149,151.132641,221710,Kogarah Station
+T4.Illawarra-Bomaderry[44],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Rockdale,44,221620,-33.95188,151.136862,221620,Rockdale Station
+T4.Illawarra-Bomaderry[45],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Banksia,45,221610,-33.945286,151.140432,221610,Banksia Station
+T4.Illawarra-Bomaderry[46],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Arncliffe,46,220520,-33.936456,151.147299,220520,Arncliffe Station
+T4.Illawarra-Bomaderry[47],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Wolli Creek,47,220510,-33.928547,151.154113,220510,Wolli Creek Station
+T4.Illawarra-Bomaderry[48],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Tempe,48,204430,-33.924505,151.156507,204430,Tempe Station
+T4.Illawarra-Bomaderry[49],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Sydenham,49,204420,-33.914373,151.166646,204420,Sydenham Station
+T4.Illawarra-Bomaderry[50],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Redfern,50,201510,-33.89237,151.198485,201510,Redfern Station
+T4.Illawarra-Bomaderry[51],T4,Illawarra-Bomaderry,T4_Illawarra-Bomaderry,Central,51,200060,-33.883882,151.205829,200060,Central Station
+T5.Cumberland[0],T5,Cumberland,T5_Cumberland,Leppington,6,217933,-33.9544,150.8081,217933,Leppington Station
+T5.Cumberland[1],T5,Cumberland,T5_Cumberland,Edmondson Park,7,217426,-33.9693,150.8587,217426,Edmondson Park Station
+T5.Cumberland[2],T5,Cumberland,T5_Cumberland,Glenfield,8,216710,-33.972368,150.892807,216710,Glenfield Station
+T5.Cumberland[3],T5,Cumberland,T5_Cumberland,Casula,9,217030,-33.949818,150.911946,217030,Casula Station
+T5.Cumberland[4],T5,Cumberland,T5_Cumberland,Liverpool,10,217020,-33.92511,150.927054,217020,Liverpool Station
+T5.Cumberland[5],T5,Cumberland,T5_Cumberland,Warwick Farm,11,217010,-33.91345,150.935036,217010,Warwick Farm Station
+T5.Cumberland[6],T5,Cumberland,T5_Cumberland,Cabramatta,12,216620,-33.894867,150.938821,216620,Cabramatta Station
+T5.Cumberland[7],T5,Cumberland,T5_Cumberland,Canley Vale,13,216610,-33.886798,150.943987,216610,Canley Vale Station
+T5.Cumberland[8],T5,Cumberland,T5_Cumberland,Fairfield,14,216510,-33.872331,150.957071,216510,Fairfield Station
+T5.Cumberland[9],T5,Cumberland,T5_Cumberland,Yennora,15,216120,-33.864718,150.971007,216120,Yennora Station
+T5.Cumberland[10],T5,Cumberland,T5_Cumberland,Guildford,16,216110,-33.854506,150.984361,216110,Guildford Station
+T5.Cumberland[11],T5,Cumberland,T5_Cumberland,Merrylands,17,216010,-33.83635,150.992863,216010,Merrylands Station
+T5.Cumberland[12],T5,Cumberland,T5_Cumberland,Harris Park,18,215010,-33.82326,151.007639,215010,Harris Park Station
+T5.Cumberland[13],T5,Cumberland,T5_Cumberland,Parramatta,19,215020,-33.817579,151.005535,215020,Parramatta Station
+T5.Cumberland[14],T5,Cumberland,T5_Cumberland,Westmead,20,214510,-33.808529,150.988011,214510,Westmead Station
+T5.Cumberland[15],T5,Cumberland,T5_Cumberland,Wentworthville,21,214520,-33.807193,150.972638,214520,Wentworthville Station
+T5.Cumberland[16],T5,Cumberland,T5_Cumberland,Pendle Hill,22,214530,-33.801348,150.956343,214530,Pendle Hill Station
+T5.Cumberland[17],T5,Cumberland,T5_Cumberland,Toongabbie,23,214610,-33.787263,150.951437,214610,Toongabbie Station
+T5.Cumberland[18],T5,Cumberland,T5_Cumberland,Seven Hills,24,214710,-33.77443,150.936513,214710,Seven Hills Station
+T5.Cumberland[19],T5,Cumberland,T5_Cumberland,Blacktown,25,214810,-33.768229,150.907511,214810,Blacktown Station
+T5.Cumberland[20],T5,Cumberland,T5_Cumberland,Marayong,26,214820,-33.746451,150.900199,214820,Marayong Station
+T5.Cumberland[21],T5,Cumberland,T5_Cumberland,Quakers Hill,27,276310,-33.728025,150.886725,276310,Quakers Hill Station
+T5.Cumberland[22],T5,Cumberland,T5_Cumberland,Schofields,28,276220,-33.704477,150.873817,276220,Schofields Station
+T5.Cumberland[23],T5,Cumberland,T5_Cumberland,Riverstone,29,276510,-33.679043,150.860268,276510,Riverstone Station
+T5.Cumberland[24],T5,Cumberland,T5_Cumberland,Vineyard,30,276520,-33.650504,150.851246,276520,Vineyard Station
+T5.Cumberland[25],T5,Cumberland,T5_Cumberland,Mulgrave,31,275610,-33.626684,150.830637,275610,Mulgrave Station
+T5.Cumberland[26],T5,Cumberland,T5_Cumberland,Windsor,32,275620,-33.613928,150.811408,275620,Windsor Station
+T5.Cumberland[27],T5,Cumberland,T5_Cumberland,Clarendon,33,275630,-33.608952,150.788563,275630,Clarendon Station
+T5.Cumberland[28],T5,Cumberland,T5_Cumberland,East Richmond,34,275310,-33.601796,150.759234,275310,East Richmond Station
+T5.Cumberland[29],T5,Cumberland,T5_Cumberland,Richmond,35,275320,-33.599112,150.753211,275320,Richmond Station
+T7.Olympic Park[0],T7,Olympic Park,T7_Olympic Park,Olympic Park,0,212710,-33.84652,151.069547,212710,Olympic Park Station
+T7.Olympic Park[1],T7,Olympic Park,T7_Olympic Park,Lidcombe,1,214110,-33.863889,151.04539,214110,Lidcombe Station
+SHL,SHL,SHL,SHL,Goulburn,0,258010,-34.758462,149.719274,258010,Goulburn Station
+SHL,SHL,SHL,SHL,Marulan,1,257940,-34.709501,150.006419,257940,Marulan Station
+SHL,SHL,SHL,SHL,Tallong,2,257950,-34.718331,150.086506,257950,Tallong Station
+SHL,SHL,SHL,SHL,Wingello,3,257910,-34.69218,150.158385,257910,Wingello Station
+SHL,SHL,SHL,SHL,Penrose,4,257920,-34.672551,150.211755,257920,Penrose Station
+SHL,SHL,SHL,SHL,Bundanoon,5,257810,-34.656135,150.298737,257810,Bundanoon Station
+SHL,SHL,SHL,SHL,Exeter,6,257930,-34.613775,150.317345,257930,Exeter Station
+SHL,SHL,SHL,SHL,Moss Vale,7,257710,-34.54796,150.37199,257710,Moss Vale Station
+SHL,SHL,SHL,SHL,Burradoo,8,257620,-34.494019,150.398339,257620,Burradoo Station
+SHL,SHL,SHL,SHL,Bowral,9,257610,-34.478123,150.416659,257610,Bowral Station
+SHL,SHL,SHL,SHL,Mittagong,10,257510,-34.452706,150.44769,257510,Mittagong Station
+SHL,SHL,SHL,SHL,Yerrinbool,11,257540,-34.37174,150.543496,257540,Yerrinbool Station
+SHL,SHL,SHL,SHL,Bargo,12,257420,-34.291365,150.580209,257420,Bargo Station
+SHL,SHL,SHL,SHL,Tahmoor,13,257310,-34.223677,150.589911,257310,Tahmoor Station
+SHL,SHL,SHL,SHL,Picton,14,257110,-34.179147,150.612602,257110,Picton Station
+SHL,SHL,SHL,SHL,Douglas Park,15,256910,-34.183227,150.709938,256910,Douglas Park Station
+SHL,SHL,SHL,SHL,Menangle,16,256810,-34.125201,150.744431,256810,Menangle Station
+SHL,SHL,SHL,SHL,Menangle Park,17,256310,-34.103701,150.744956,256310,Menangle Park Station
+SHL,SHL,SHL,SHL,Macarthur,18,256030,-34.072073,150.796737,256030,Macarthur Station
+SHL,SHL,SHL,SHL,Campbelltown,19,256020,-34.063835,150.813929,256020,Campbelltown Station
+T8.Airport[20],T8,Airport,T8_Airport,Macarthur,18,256030,-34.072073,150.796737,256030,Macarthur Station
+T8.Airport[21],T8,Airport,T8_Airport,Campbelltown,19,256020,-34.063835,150.813929,256020,Campbelltown Station
+T8.Airport[20],T8,Airport,T8_Airport,Leumeah,20,256010,-34.05117,150.830051,256010,Leumeah Station
+T8.Airport[21],T8,Airport,T8_Airport,Minto,21,256610,-34.02715,150.842597,256610,Minto Station
+T8.Airport[22],T8,Airport,T8_Airport,Ingleburn,22,256510,-33.99708,150.86492,256510,Ingleburn Station
+T8.Airport[23],T8,Airport,T8_Airport,Macquarie Fields,23,256410,-33.984807,150.878896,256410,Macquarie Fields Station
+T8.Airport[24],T8,Airport,T8_Airport,Glenfield,24,216710,-33.972368,150.892807,216710,Glenfield Station
+T8.Airport[25],T8,Airport,T8_Airport,Holsworthy,25,217310,-33.96321,150.956895,217310,Holsworthy Station
+T8.Airport[26],T8,Airport,T8_Airport,East Hills,26,221320,-33.961607,150.984897,221320,East Hills Station
+T8.Airport[27],T8,Airport,T8_Airport,Panania,27,221310,-33.954311,150.997826,221310,Panania Station
+T8.Airport[28],T8,Airport,T8_Airport,Revesby,28,221210,-33.95246,151.014838,221210,Revesby Station
+T8.Airport[29],T8,Airport,T8_Airport,Padstow,29,221110,-33.951892,151.032557,221110,Padstow Station
+T8.Airport[30],T8,Airport,T8_Airport,Riverwood,30,221010,-33.951535,151.052035,221010,Riverwood Station
+T8.Airport[31],T8,Airport,T8_Airport,Narwee,31,220920,-33.947518,151.069748,220920,Narwee Station
+T8.Airport[32],T8,Airport,T8_Airport,Beverly Hills,32,220910,-33.948849,151.081692,220910,Beverly Hills Station
+T8.Airport[33],T8,Airport,T8_Airport,Kingsgrove,33,220810,-33.940636,151.100484,220810,Kingsgrove Station
+T8.Airport[34],T8,Airport,T8_Airport,Bexley North,34,220720,-33.937566,151.113397,220720,Bexley North Station
+T8.Airport[35],T8,Airport,T8_Airport,Bardwell Park,35,220710,-33.931617,151.124857,220710,Bardwell Park Station
+T8.Airport[36],T8,Airport,T8_Airport,Turrella,36,220530,-33.929953,151.139909,220530,Turrella Station
+T8.Airport[37],T8,Airport,T8_Airport,Wolli Creek,37,220510,-33.928547,151.154113,220510,Wolli Creek Station
+T8.Airport[38],T8,Airport,T8_Airport,International Airport,38,202030,-33.934988,151.165891,202030,International Station
+T8.Airport[39],T8,Airport,T8_Airport,Domestic Airport,39,202020,-33.93366,151.180786,202020,Domestic Station
+T8.Airport[40],T8,Airport,T8_Airport,Mascot,40,202010,-33.923188,151.187253,202010,Mascot Station
+T8.Airport[41],T8,Airport,T8_Airport,Green Square,41,201710,-33.906063,151.202474,201710,Green Square Station
+T8.Airport[42],T8,Airport,T8_Airport,Central,42,200060,-33.883882,151.205829,200060,Central Station
+T8.Airport[43],T8,Airport,T8_Airport,Town Hall,43,200070,-33.873596,151.206899,200070,Town Hall Station
+T8.Airport[44],T8,Airport,T8_Airport,Wynyard,44,200080,-33.865898,151.205789,200080,Wynyard Station
+T8.Airport[45],T8,Airport,T8_Airport,Circular Quay Station,45,200020,-33.861324,151.21039,200020,Circular Quay Station
+T8.Airport[46],T8,Airport,T8_Airport,St James,46,200050,-33.870697,151.211837,200050,St James Station
+T8.Airport[47],T8,Airport,T8_Airport,Museum,47,200040,-33.8757,151.210106,200040,Museum Station
+T8.South[0],T8,South,T8_South,Macarthur,0,256030,-34.072073,150.796737,256030,Macarthur Station
+T8.South[1],T8,South,T8_South,Campbelltown,1,256020,-34.063835,150.813929,256020,Campbelltown Station
+T8.South[2],T8,South,T8_South,Leumeah,2,256010,-34.05117,150.830051,256010,Leumeah Station
+T8.South[3],T8,South,T8_South,Minto,3,256610,-34.02715,150.842597,256610,Minto Station
+T8.South[4],T8,South,T8_South,Ingleburn,4,256510,-33.99708,150.86492,256510,Ingleburn Station
+T8.South[5],T8,South,T8_South,Macquarie Fields,5,256410,-33.984807,150.878896,256410,Macquarie Fields Station
+T8.South[6],T8,South,T8_South,Glenfield,6,216710,-33.972368,150.892807,216710,Glenfield Station
+T8.South[7],T8,South,T8_South,Holsworthy,7,217310,-33.96321,150.956895,217310,Holsworthy Station
+T8.South[8],T8,South,T8_South,East Hills,8,221320,-33.961607,150.984897,221320,East Hills Station
+T8.South[9],T8,South,T8_South,Panania,9,221310,-33.954311,150.997826,221310,Panania Station
+T8.South[10],T8,South,T8_South,Revesby,10,221210,-33.95246,151.014838,221210,Revesby Station
+T8.South[11],T8,South,T8_South,Padstow,11,221110,-33.951892,151.032557,221110,Padstow Station
+T8.South[12],T8,South,T8_South,Riverwood,12,221010,-33.951535,151.052035,221010,Riverwood Station
+T8.South[13],T8,South,T8_South,Narwee,13,220920,-33.947518,151.069748,220920,Narwee Station
+T8.South[14],T8,South,T8_South,Beverly Hills,14,220910,-33.948849,151.081692,220910,Beverly Hills Station
+T8.South[15],T8,South,T8_South,Kingsgrove,15,220810,-33.940636,151.100484,220810,Kingsgrove Station
+T8.South[16],T8,South,T8_South,Bexley North,16,220720,-33.937566,151.113397,220720,Bexley North Station
+T8.South[17],T8,South,T8_South,Bardwell Park,17,220710,-33.931617,151.124857,220710,Bardwell Park Station
+T8.South[18],T8,South,T8_South,Turrella,18,220530,-33.929953,151.139909,220530,Turrella Station
+T8.South[19],T8,South,T8_South,Sydenham,19,204420,-33.914373,151.166646,204420,Sydenham Station
+T8.South[20],T8,South,T8_South,St Peters,20,204410,-33.907395,151.180267,204410,St Peters Station
+T8.South[21],T8,South,T8_South,Erskineville,21,204310,-33.900858,151.185308,204310,Erskineville Station
+T8.South[22],T8,South,T8_South,Redfern,22,201510,-33.89237,151.198485,201510,Redfern Station
+T8.South[23],T8,South,T8_South,Central,23,200060,-33.883882,151.205829,200060,Central Station
+T8.South[24],T8,South,T8_South,Town Hall,24,200070,-33.873596,151.206899,200070,Town Hall Station
+T8.South[25],T8,South,T8_South,Wynyard,25,200080,-33.865898,151.205789,200080,Wynyard Station
+T8.South[26],T8,South,T8_South,Circular Quay Station,26,200020,-33.861324,151.21039,200020,Circular Quay Station
+T8.South[27],T8,South,T8_South,St James,27,200050,-33.870697,151.211837,200050,St James Station
+T8.South[28],T8,South,T8_South,Museum,28,200040,-33.8757,151.210106,200040,Museum Station
+T9.Gordon[0],T9,Gordon,T9_Gordon,Gordon,0,207210,-33.756009,151.154528,207210,Gordon Station
+T9.Gordon[1],T9,Gordon,T9_Gordon,Killara,1,207110,-33.765409,151.161647,207110,Killara Station
+T9.Gordon[2],T9,Gordon,T9_Gordon,Lindfield,2,207010,-33.775185,151.169111,207010,Lindfield Station
+T9.Gordon[3],T9,Gordon,T9_Gordon,Roseville,3,206910,-33.78422,151.177266,206910,Roseville Station
+T9.Gordon[4],T9,Gordon,T9_Gordon,Chatswood,4,206710,-33.797134,151.180821,206710,Chatswood Station
+T9.Gordon[5],T9,Gordon,T9_Gordon,Artarmon,5,206410,-33.808903,151.185294,206410,Artarmon Station
+T9.Gordon[6],T9,Gordon,T9_Gordon,St Leonards,6,206520,-33.822389,151.194127,206520,St Leonards Station
+T9.Gordon[7],T9,Gordon,T9_Gordon,Wollstonecraft,7,206510,-33.831795,151.191895,206510,Wollstonecraft Station
+T9.Gordon[8],T9,Gordon,T9_Gordon,Waverton,8,206020,-33.838245,151.197856,206020,Waverton Station
+T9.Gordon[9],T9,Gordon,T9_Gordon,North Sydney,9,206010,-33.841209,151.20741,206010,North Sydney Station
+T9.Gordon[10],T9,Gordon,T9_Gordon,Milsons Point,10,206110,-33.845893,151.211825,206110,Milsons Point Station
+T9.Gordon[11],T9,Gordon,T9_Gordon,Wynyard,11,200080,-33.865898,151.205789,200080,Wynyard Station
+T9.Gordon[12],T9,Gordon,T9_Gordon,Town Hall,12,200070,-33.873596,151.206899,200070,Town Hall Station
+T9.Gordon[13],T9,Gordon,T9_Gordon,Central,13,200060,-33.883882,151.205829,200060,Central Station
+T9.Northern[49],T9,Northern,T9_Northern,Redfern,49,201510,-33.89237,151.198485,201510,Redfern Station
+T9.Northern[48],T9,Northern,T9_Northern,Burwood,48,213410,-33.877315,151.104762,213410,Burwood Station
+T9.Northern[47],T9,Northern,T9_Northern,Strathfield,47,213510,-33.87181,151.094427,213510,Strathfield Station
+T9.Northern[46],T9,Northern,T9_Northern,North Strathfield,46,213710,-33.858688,151.087986,213710,North Strathfield Station
+T9.Northern[45],T9,Northern,T9_Northern,Concord West,45,213810,-33.84874,151.085626,213810,Concord West Station
+T9.Northern[44],T9,Northern,T9_Northern,Rhodes,44,213820,-33.83053,151.087032,213820,Rhodes Station
+T9.Northern[43],T9,Northern,T9_Northern,Meadowbank,43,211430,-33.816238,151.090061,211430,Meadowbank Station
+T9.Northern[42],T9,Northern,T9_Northern,West Ryde,42,211420,-33.807172,151.090229,211420,West Ryde Station
+T9.Northern[41],T9,Northern,T9_Northern,Denistone,41,211410,-33.799906,151.08755,211410,Denistone Station
+T9.Northern[40],T9,Northern,T9_Northern,Eastwood,40,212210,-33.790021,151.082233,212210,Eastwood Station
+T9.Northern[39],T9,Northern,T9_Northern,Epping,39,212110,-33.772841,151.082177,212110,Epping Station
+T9.Northern[38],T9,Northern,T9_Northern,Cheltenham,38,211920,-33.755868,151.078851,211920,Cheltenham Station
+T9.Northern[37],T9,Northern,T9_Northern,Beecroft,37,211910,-33.749954,151.066298,211910,Beecroft Station
+T9.Northern[36],T9,Northern,T9_Northern,Pennant Hills,36,212020,-33.737939,151.07253,212020,Pennant Hills Station
+T9.Northern[35],T9,Northern,T9_Northern,Thornleigh,35,212010,-33.731871,151.078281,212010,Thornleigh Station
+T9.Northern[34],T9,Northern,T9_Northern,Normanhurst,34,207620,-33.720753,151.097241,207620,Normanhurst Station
+T9.Northern[33],T9,Northern,T9_Northern,Hornsby,33,207720,-33.702801,151.098494,207720,Hornsby Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Tallawong,0,2155384,-33.69163,150.906022,2155384,Tallawong Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Rouse Hill,1,2155383,-33.691986,150.924306,2155383,Rouse Hill Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Kellyville,2,2155382,-33.713514,150.935304,2155382,Kellyville Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Bella Vista,3,2153478,-33.730592,150.944024,2153478,Bella Vista Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Norwest,4,2153477,-33.734348,150.963846,2153477,Norwest Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Hills Showground,5,2154392,-33.72782,150.987345,2154392,Hills Showground Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Castle Hill,6,2154391,-33.731485,151.007809,2154391,Castle Hill Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Cherrybrook,7,2126158,-33.736703,151.031977,2126158,Cherrybrook Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Epping,8,212110,-33.772841,151.082177,212110,Epping Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Macquarie University,9,211310,-33.777413,151.118187,211310,Macquarie University Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Macquarie Park,10,211340,-33.785013,151.128641,211340,Macquarie Park Station
+Metro_NW,M1,MetroNW,M1_MetroNW,North Ryde,11,211320,-33.794422,151.13794,211320,North Ryde Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Chatswood,12,206710,-33.797134,151.180821,206710,Chatswood Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Crows Nest Station,13,206516,-33.825623,151.199071,206516,Crows Nest Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Victoria Cross Station,14,206044,-33.835876,151.20743,206044,Victoria Cross Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Barangaroo Station,15,200046,-33.859641,151.202638,200046,Barangaroo Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Martin Place Station,16,200030,-33.867837,151.2115,200030,Martin Place Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Gadigal Station,17,200066,-33.873866,151.208509,200066,Gadigal Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Central Station,18,200060,-33.883848,151.205738,200060,Central Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Waterloo Station,19,201721,-33.897691,151.200293,201721,Waterloo Station
+Metro_NW,M1,MetroNW,M1_MetroNW,Sydenham Station,20,204420,-33.914339,151.166555,204420,Sydenham Station
+T6,T6,Lid-Bank,T6 New,Lidcombe,0,214110,-33.863889,151.04539,214110,Lidcombe Station
+T6,T6,Lid-Bank,T6 New,Berala,1,214120,-33.871836,151.032442,214120,Berala Station
+T6,T6,Lid-Bank,T6 New,Regents Park,2,214310,-33.882989,151.024187,214310,Regents Park Station
+T6,T6,Lid-Bank,T6 New,Birrong,3,214320,-33.893279,151.024041,214320,Birrong Station
+T6,T6,Lid-Bank,T6 New,Yagoona,4,219910,-33.906553,151.024152,219910,Yagoona Station
+T6,T6,Lid-Bank,T6 New,Bankstown,5,220010,-33.917865,151.034687,220010,Bankstown Station
+T3_new,T3_New,T3_new,T3_New,Liverpool,0,217020,-33.92511,150.927054,217020,Liverpool Station
+T3_new,T3_New,T3_new,T3_New,Warwick Farm,1,217010,-33.91345,150.935036,217010,Warwick Farm Station
+T3_new,T3_New,T3_new,T3_New,Cabramatta,2,216620,-33.894867,150.938821,216620,Cabramatta Station
+T3_new,T3_New,T3_new,T3_New,Carramar,3,216330,-33.884318,150.961549,216330,Carramar Station
+T3_new,T3_New,T3_new,T3_New,Villawood,4,216320,-33.880902,150.976048,216320,Villawood Station
+T3_new,T3_New,T3_new,T3_New,Leightonfield,5,216310,-33.881502,150.984967,216310,Leightonfield Station
+T3_new,T3_New,T3_new,T3_New,Chester Hill,6,216220,-33.883543,150.999446,216220,Chester Hill Station
+T3_new,T3_New,T3_new,T3_New,Sefton,7,216210,-33.885236,151.011283,216210,Sefton Station
+T3_new,T3_New,T3_new,T3_New,Regents Park,8,214310,-33.882989,151.024187,214310,Regents Park Station
+T3_new,T3_New,T3_new,T3_New,Berala,9,214120,-33.871836,151.032442,214120,Berala Station
+T3_new,T3_New,T3_new,T3_New,Lidcombe,10,214110,-33.863889,151.04539,214110,Lidcombe Station
+T3_new,T3_New,T3_new,T3_New,Flemington,11,214020,-33.864822,151.069767,214020,Flemington Station
+T3_new,T3_New,T3_new,T3_New,Homebush,12,214010,-33.86674,151.086441,214010,Homebush Station
+T3_new,T3_New,T3_new,T3_New,Strathfield,13,213510,-33.87181,151.094427,213510,Strathfield Station
+T3_new,T3_New,T3_new,T3_New,Burwood,14,213410,-33.877315,151.104762,213410,Burwood Station
+T3_new,T3_New,T3_new,T3_New,Croydon,15,213210,-33.883234,151.115488,213210,Croydon Station
+T3_new,T3_New,T3_new,T3_New,Ashfield,16,213110,-33.887551,151.125504,213110,Ashfield Station
+T3_new,T3_New,T3_new,T3_New,Summer Hill,17,213010,-33.890561,151.139445,213010,Summer Hill Station
+T3_new,T3_New,T3_new,T3_New,Lewisham,18,204920,-33.893279,151.147273,204920,Lewisham Station
+T3_new,T3_New,T3_new,T3_New,Petersham,19,204910,-33.893859,151.155156,204910,Petersham Station
+T3_new,T3_New,T3_new,T3_New,Stanmore,20,204810,-33.894549,151.164009,204810,Stanmore Station
+T3_new,T3_New,T3_new,T3_New,Newtown,21,204210,-33.897883,151.179925,204210,Newtown Station
+T3_new,T3_New,T3_new,T3_New,Macdonaldtown,22,201520,-33.89666,151.186292,201520,Macdonaldtown Station
+T3_new,T3_New,T3_new,T3_New,Redfern,23,201510,-33.89237,151.198485,201510,Redfern Station
+T3_new,T3_New,T3_new,T3_New,Central,24,200060,-33.883882,151.205829,200060,Central Station
