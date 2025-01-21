@@ -6,9 +6,11 @@ import calc_functions as cf
 from pathlib import Path
 import time
 import heapq
+import logging
 
 
-
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 APP_TITLE = "OD Pairs Analysis"
 st.set_page_config(page_title=APP_TITLE, layout="wide", page_icon=":oncoming_bus:")
@@ -75,7 +77,8 @@ def main():
             # Your processing code here
         
     except Exception as e:
-       st.error(f"Upload error: {str(e)}")
+        logger.error(f"File upload error: {e}")
+        st.error("Upload failed. Please try again.")
 
     
     if uploaded_file is not None:
