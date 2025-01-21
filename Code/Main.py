@@ -15,8 +15,8 @@ st.set_page_config(page_title=APP_TITLE, layout="wide", page_icon=":oncoming_bus
 
 @st.cache_data()
 def load_data():
-    stations_df = pd.read_csv(os.path.join(Path(os.getcwd()).parent, 'Supporting Data', 'Station_data_Latest.csv'))
-    tt_dist_matrix = pd.read_csv(os.path.join(Path(os.getcwd()).parent, 'Supporting Data', 'tt_speed_matrix_for_stations.csv'))
+    stations_df = pd.read_csv(os.path.join((os.getcwd()), 'Supporting Data', 'Station_data_Latest.csv'))
+    tt_dist_matrix = pd.read_csv(os.path.join((os.getcwd()), 'Supporting Data', 'tt_speed_matrix_for_stations.csv'))
     return stations_df, tt_dist_matrix
 
 @st.cache_data()
