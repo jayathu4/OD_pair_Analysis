@@ -60,7 +60,24 @@ def main():
         
     stations_df, tt_dist_matrix = load_data()
     
-    uploaded_file = st.file_uploader("Choose the extracted OD pairs file", type="csv")
+    # uploaded_file = st.file_uploader("Choose the extracted OD pairs file", type="csv")
+
+    try:
+        uploaded_file = st.file_uploader(
+            "Choose a file",
+            type=['csv', 'xlsx'],
+            key='unique_key'  # Add a unique key
+        )
+        
+        if uploaded_file is not None:
+            file_size = uploaded_file.size
+            st.write(f"File size: {file_size} bytes")
+            # Your processing code here
+        
+    except Exception as e:
+       st.error(f"Upload error: {str(e)}")
+
+    
     if uploaded_file is not None:
         od_pairs_df = pd.read_csv(uploaded_file)
         od_pairs_df = od_pairs_df.dropna(subset=['tap_off_tsn_name'])
